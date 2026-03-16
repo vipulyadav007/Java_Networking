@@ -1,0 +1,2187 @@
+[2025-12-12 01:23:58] INFO: Application started
+[2025-12-12 01:23:58] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:23:58] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:23:58] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:23:58] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:24:03] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:24:03] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:24:08] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:24:08] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:24:13] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:24:13] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:24:18] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:24:18] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:24:23] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:24:23] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:24:28] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:24:28] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:24:33] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:24:33] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:24:38] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:24:38] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:24:43] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:24:43] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:24:48] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:24:48] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:24:53] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:24:53] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:24:58] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:24:58] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:25:03] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:25:03] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:25:08] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:25:08] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:25:13] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:25:13] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:25:18] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:25:18] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:25:23] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:25:23] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:25:28] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:25:28] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:25:33] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:25:33] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:25:38] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:25:38] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:25:43] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:25:43] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:25:48] INFO: Attempting to connect to 127.0.0.1:8888
+[2025-12-12 01:25:48] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:27:23] INFO: Application started
+[2025-12-12 01:27:23] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:27:23] INFO: Connected successfully
+[2025-12-12 01:27:23] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:27:53] ERROR: Handshake failed: null
+[2025-12-12 01:27:53] INFO: Disconnected from server
+[2025-12-12 01:27:53] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:27:53] INFO: Connected successfully
+[2025-12-12 01:27:53] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:28:23] ERROR: Handshake failed: null
+[2025-12-12 01:28:23] INFO: Disconnected from server
+[2025-12-12 01:28:28] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:28:28] INFO: Connected successfully
+[2025-12-12 01:28:28] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:28:37] INFO: Application started
+[2025-12-12 01:28:37] INFO: Attempting to connect to 127.0.0.1:57249
+[2025-12-12 01:28:37] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:28:37] INFO: Attempting to connect to 127.0.0.1:57249
+[2025-12-12 01:28:37] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:28:42] INFO: Attempting to connect to 127.0.0.1:57249
+[2025-12-12 01:28:42] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:28:47] INFO: Attempting to connect to 127.0.0.1:57249
+[2025-12-12 01:28:47] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 01:30:07] INFO: Application started
+[2025-12-12 01:30:07] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:30:07] INFO: Connected successfully
+[2025-12-12 01:30:07] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:30:37] ERROR: Handshake failed: null
+[2025-12-12 01:30:37] INFO: Disconnected from server
+[2025-12-12 01:30:37] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:30:37] INFO: Connected successfully
+[2025-12-12 01:30:37] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:31:00] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-12 01:31:30] ERROR: Handshake failed: null
+[2025-12-12 01:31:30] ERROR: Ticker search failed: null
+[2025-12-12 01:31:30] INFO: Disconnected from server
+[2025-12-12 01:31:35] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:31:35] INFO: Connected successfully
+[2025-12-12 01:31:35] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:32:05] ERROR: Handshake failed: null
+[2025-12-12 01:32:05] INFO: Disconnected from server
+[2025-12-12 01:32:10] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:32:10] INFO: Connected successfully
+[2025-12-12 01:32:10] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:32:40] ERROR: Handshake failed: null
+[2025-12-12 01:32:40] INFO: Disconnected from server
+[2025-12-12 01:32:45] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:32:45] INFO: Connected successfully
+[2025-12-12 01:32:45] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:33:15] ERROR: Handshake failed: null
+[2025-12-12 01:33:15] INFO: Disconnected from server
+[2025-12-12 01:33:20] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:33:20] INFO: Connected successfully
+[2025-12-12 01:33:20] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:33:50] ERROR: Handshake failed: null
+[2025-12-12 01:33:50] INFO: Disconnected from server
+[2025-12-12 01:33:55] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:33:55] INFO: Connected successfully
+[2025-12-12 01:33:55] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:34:25] ERROR: Handshake failed: null
+[2025-12-12 01:34:25] INFO: Disconnected from server
+[2025-12-12 01:34:30] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:34:30] INFO: Connected successfully
+[2025-12-12 01:34:30] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:35:00] ERROR: Handshake failed: null
+[2025-12-12 01:35:00] INFO: Disconnected from server
+[2025-12-12 01:35:05] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:35:05] INFO: Connected successfully
+[2025-12-12 01:35:05] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:35:35] ERROR: Handshake failed: null
+[2025-12-12 01:35:35] INFO: Disconnected from server
+[2025-12-12 01:35:40] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:35:40] INFO: Connected successfully
+[2025-12-12 01:35:40] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:35:44] INFO: Application started
+[2025-12-12 01:35:44] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:35:44] INFO: Connected successfully
+[2025-12-12 01:35:44] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:37:14] ERROR: Handshake failed: null
+[2025-12-12 01:37:14] INFO: Disconnected from server
+[2025-12-12 01:37:14] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:37:14] INFO: Connected successfully
+[2025-12-12 01:37:14] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:38:44] ERROR: Handshake failed: null
+[2025-12-12 01:38:44] INFO: Disconnected from server
+[2025-12-12 01:38:49] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:38:49] INFO: Connected successfully
+[2025-12-12 01:38:49] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 01:40:09] ERROR: Handshake failed: Connection reset
+[2025-12-12 01:40:19] INFO: Application started
+[2025-12-12 01:40:19] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:40:19] INFO: Connected successfully
+[2025-12-12 01:40:19] OUTGOING: USERNAME: admin
+[2025-12-12 01:40:19] OUTGOING: PASSWORD: ********
+[2025-12-12 01:40:29] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:40:29] INFO: Disconnected from server
+[2025-12-12 01:40:29] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:40:29] INFO: Connected successfully
+[2025-12-12 01:40:29] OUTGOING: USERNAME: admin
+[2025-12-12 01:40:29] OUTGOING: PASSWORD: ********
+[2025-12-12 01:40:39] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:40:39] INFO: Disconnected from server
+[2025-12-12 01:40:44] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:40:44] INFO: Connected successfully
+[2025-12-12 01:40:44] OUTGOING: USERNAME: admin
+[2025-12-12 01:40:44] OUTGOING: PASSWORD: ********
+[2025-12-12 01:40:54] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:40:54] INFO: Disconnected from server
+[2025-12-12 01:40:59] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:40:59] INFO: Connected successfully
+[2025-12-12 01:40:59] OUTGOING: USERNAME: admin
+[2025-12-12 01:40:59] OUTGOING: PASSWORD: ********
+[2025-12-12 01:41:09] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:41:09] INFO: Disconnected from server
+[2025-12-12 01:41:14] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:41:14] INFO: Connected successfully
+[2025-12-12 01:41:14] OUTGOING: USERNAME: admin
+[2025-12-12 01:41:14] OUTGOING: PASSWORD: ********
+[2025-12-12 01:41:24] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:41:24] INFO: Disconnected from server
+[2025-12-12 01:41:29] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:41:29] INFO: Connected successfully
+[2025-12-12 01:41:29] OUTGOING: USERNAME: admin
+[2025-12-12 01:41:29] OUTGOING: PASSWORD: ********
+[2025-12-12 01:41:39] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:41:39] INFO: Disconnected from server
+[2025-12-12 01:41:44] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:41:44] INFO: Connected successfully
+[2025-12-12 01:41:44] OUTGOING: USERNAME: admin
+[2025-12-12 01:41:44] OUTGOING: PASSWORD: ********
+[2025-12-12 01:41:54] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:41:54] INFO: Disconnected from server
+[2025-12-12 01:41:59] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:41:59] INFO: Connected successfully
+[2025-12-12 01:41:59] OUTGOING: USERNAME: admin
+[2025-12-12 01:41:59] OUTGOING: PASSWORD: ********
+[2025-12-12 01:42:09] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:42:09] INFO: Disconnected from server
+[2025-12-12 01:42:14] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:42:14] INFO: Connected successfully
+[2025-12-12 01:42:14] OUTGOING: USERNAME: admin
+[2025-12-12 01:42:14] OUTGOING: PASSWORD: ********
+[2025-12-12 01:42:24] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:42:24] INFO: Disconnected from server
+[2025-12-12 01:42:29] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:42:29] INFO: Connected successfully
+[2025-12-12 01:42:29] OUTGOING: USERNAME: admin
+[2025-12-12 01:42:29] OUTGOING: PASSWORD: ********
+[2025-12-12 01:42:39] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:42:39] INFO: Disconnected from server
+[2025-12-12 01:42:44] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:42:44] INFO: Connected successfully
+[2025-12-12 01:42:44] OUTGOING: USERNAME: admin
+[2025-12-12 01:42:44] OUTGOING: PASSWORD: ********
+[2025-12-12 01:42:54] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:42:54] INFO: Disconnected from server
+[2025-12-12 01:42:59] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:42:59] INFO: Connected successfully
+[2025-12-12 01:42:59] OUTGOING: USERNAME: admin
+[2025-12-12 01:42:59] OUTGOING: PASSWORD: ********
+[2025-12-12 01:43:10] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:43:10] INFO: Disconnected from server
+[2025-12-12 01:43:15] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:43:15] INFO: Connected successfully
+[2025-12-12 01:43:15] OUTGOING: USERNAME: admin
+[2025-12-12 01:43:15] OUTGOING: PASSWORD: ********
+[2025-12-12 01:43:25] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:43:25] INFO: Disconnected from server
+[2025-12-12 01:43:30] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:43:30] INFO: Connected successfully
+[2025-12-12 01:43:30] OUTGOING: USERNAME: admin
+[2025-12-12 01:43:30] OUTGOING: PASSWORD: ********
+[2025-12-12 01:43:40] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:43:40] INFO: Disconnected from server
+[2025-12-12 01:43:45] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:43:45] INFO: Connected successfully
+[2025-12-12 01:43:45] OUTGOING: USERNAME: admin
+[2025-12-12 01:43:45] OUTGOING: PASSWORD: ********
+[2025-12-12 01:43:55] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:43:55] INFO: Disconnected from server
+[2025-12-12 01:44:00] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:44:00] INFO: Connected successfully
+[2025-12-12 01:44:00] OUTGOING: USERNAME: admin
+[2025-12-12 01:44:00] OUTGOING: PASSWORD: ********
+[2025-12-12 01:44:10] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:44:10] INFO: Disconnected from server
+[2025-12-12 01:44:15] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:44:15] INFO: Connected successfully
+[2025-12-12 01:44:15] OUTGOING: USERNAME: admin
+[2025-12-12 01:44:15] OUTGOING: PASSWORD: ********
+[2025-12-12 01:44:25] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:44:25] INFO: Disconnected from server
+[2025-12-12 01:44:30] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:44:30] INFO: Connected successfully
+[2025-12-12 01:44:30] OUTGOING: USERNAME: admin
+[2025-12-12 01:44:30] OUTGOING: PASSWORD: ********
+[2025-12-12 01:44:40] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:44:40] INFO: Disconnected from server
+[2025-12-12 01:44:45] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:44:45] INFO: Connected successfully
+[2025-12-12 01:44:45] OUTGOING: USERNAME: admin
+[2025-12-12 01:44:45] OUTGOING: PASSWORD: ********
+[2025-12-12 01:44:55] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:44:55] INFO: Disconnected from server
+[2025-12-12 01:45:00] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:45:00] INFO: Connected successfully
+[2025-12-12 01:45:00] OUTGOING: USERNAME: admin
+[2025-12-12 01:45:00] OUTGOING: PASSWORD: ********
+[2025-12-12 01:45:10] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:45:10] INFO: Disconnected from server
+[2025-12-12 01:45:15] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:45:15] INFO: Connected successfully
+[2025-12-12 01:45:15] OUTGOING: USERNAME: admin
+[2025-12-12 01:45:15] OUTGOING: PASSWORD: ********
+[2025-12-12 01:45:25] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:45:25] INFO: Disconnected from server
+[2025-12-12 01:45:30] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:45:30] INFO: Connected successfully
+[2025-12-12 01:45:30] OUTGOING: USERNAME: admin
+[2025-12-12 01:45:30] OUTGOING: PASSWORD: ********
+[2025-12-12 01:45:40] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:45:40] INFO: Disconnected from server
+[2025-12-12 01:45:45] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:45:45] INFO: Connected successfully
+[2025-12-12 01:45:45] OUTGOING: USERNAME: admin
+[2025-12-12 01:45:45] OUTGOING: PASSWORD: ********
+[2025-12-12 01:45:55] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 01:45:55] INFO: Disconnected from server
+[2025-12-12 01:46:00] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 01:46:00] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 08:22:32] INFO: Application started
+[2025-12-12 08:22:32] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:22:32] INFO: Connected successfully
+[2025-12-12 08:22:32] OUTGOING: USERNAME: admin
+[2025-12-12 08:22:32] OUTGOING: PASSWORD: ********
+[2025-12-12 08:22:42] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:22:42] INFO: Disconnected from server
+[2025-12-12 08:22:42] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:22:42] INFO: Connected successfully
+[2025-12-12 08:22:42] OUTGOING: USERNAME: admin
+[2025-12-12 08:22:42] OUTGOING: PASSWORD: ********
+[2025-12-12 08:22:52] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:22:52] INFO: Disconnected from server
+[2025-12-12 08:22:57] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:22:57] INFO: Connected successfully
+[2025-12-12 08:22:57] OUTGOING: USERNAME: admin
+[2025-12-12 08:22:57] OUTGOING: PASSWORD: ********
+[2025-12-12 08:23:07] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:23:07] INFO: Disconnected from server
+[2025-12-12 08:23:12] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:23:12] INFO: Connected successfully
+[2025-12-12 08:23:12] OUTGOING: USERNAME: admin
+[2025-12-12 08:23:12] OUTGOING: PASSWORD: ********
+[2025-12-12 08:23:22] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:23:22] INFO: Disconnected from server
+[2025-12-12 08:23:27] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:23:27] INFO: Connected successfully
+[2025-12-12 08:23:27] OUTGOING: USERNAME: admin
+[2025-12-12 08:23:27] OUTGOING: PASSWORD: ********
+[2025-12-12 08:23:37] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:23:37] INFO: Disconnected from server
+[2025-12-12 08:23:42] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:23:42] INFO: Connected successfully
+[2025-12-12 08:23:42] OUTGOING: USERNAME: admin
+[2025-12-12 08:23:42] OUTGOING: PASSWORD: ********
+[2025-12-12 08:23:52] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:23:52] INFO: Disconnected from server
+[2025-12-12 08:23:57] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:23:57] INFO: Connected successfully
+[2025-12-12 08:23:57] OUTGOING: USERNAME: admin
+[2025-12-12 08:23:57] OUTGOING: PASSWORD: ********
+[2025-12-12 08:24:07] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:24:07] INFO: Disconnected from server
+[2025-12-12 08:24:12] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:24:12] INFO: Connected successfully
+[2025-12-12 08:24:12] OUTGOING: USERNAME: admin
+[2025-12-12 08:24:12] OUTGOING: PASSWORD: ********
+[2025-12-12 08:24:22] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:24:22] INFO: Disconnected from server
+[2025-12-12 08:24:27] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:24:27] INFO: Connected successfully
+[2025-12-12 08:24:27] OUTGOING: USERNAME: admin
+[2025-12-12 08:24:27] OUTGOING: PASSWORD: ********
+[2025-12-12 08:24:37] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:24:37] INFO: Disconnected from server
+[2025-12-12 08:24:42] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:24:42] INFO: Connected successfully
+[2025-12-12 08:24:42] OUTGOING: USERNAME: admin
+[2025-12-12 08:24:42] OUTGOING: PASSWORD: ********
+[2025-12-12 08:24:52] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:24:52] INFO: Disconnected from server
+[2025-12-12 08:24:57] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:24:57] INFO: Connected successfully
+[2025-12-12 08:24:57] OUTGOING: USERNAME: admin
+[2025-12-12 08:24:57] OUTGOING: PASSWORD: ********
+[2025-12-12 08:25:07] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:25:07] INFO: Disconnected from server
+[2025-12-12 08:33:12] INFO: Application started
+[2025-12-12 08:33:12] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:33:12] INFO: Connected successfully
+[2025-12-12 08:33:12] OUTGOING: USERNAME: admin
+[2025-12-12 08:33:12] OUTGOING: PASSWORD: ********
+[2025-12-12 08:33:22] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:33:22] INFO: Disconnected from server
+[2025-12-12 08:33:22] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:33:22] INFO: Connected successfully
+[2025-12-12 08:33:22] OUTGOING: USERNAME: admin
+[2025-12-12 08:33:22] OUTGOING: PASSWORD: ********
+[2025-12-12 08:33:32] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:33:32] INFO: Disconnected from server
+[2025-12-12 08:33:37] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:33:37] INFO: Connected successfully
+[2025-12-12 08:33:37] OUTGOING: USERNAME: admin
+[2025-12-12 08:33:37] OUTGOING: PASSWORD: ********
+[2025-12-12 08:33:47] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:33:47] INFO: Disconnected from server
+[2025-12-12 08:33:52] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:33:52] INFO: Connected successfully
+[2025-12-12 08:33:52] OUTGOING: USERNAME: admin
+[2025-12-12 08:33:52] OUTGOING: PASSWORD: ********
+[2025-12-12 08:34:02] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:34:02] INFO: Disconnected from server
+[2025-12-12 08:34:07] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:34:07] INFO: Connected successfully
+[2025-12-12 08:34:07] OUTGOING: USERNAME: admin
+[2025-12-12 08:34:07] OUTGOING: PASSWORD: ********
+[2025-12-12 08:34:17] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:34:17] INFO: Disconnected from server
+[2025-12-12 08:34:22] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:34:22] INFO: Connected successfully
+[2025-12-12 08:34:22] OUTGOING: USERNAME: admin
+[2025-12-12 08:34:22] OUTGOING: PASSWORD: ********
+[2025-12-12 08:34:32] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:34:32] INFO: Disconnected from server
+[2025-12-12 08:34:37] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:34:38] INFO: Connected successfully
+[2025-12-12 08:34:38] OUTGOING: USERNAME: admin
+[2025-12-12 08:34:38] OUTGOING: PASSWORD: ********
+[2025-12-12 08:34:48] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:34:48] INFO: Disconnected from server
+[2025-12-12 08:34:53] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:34:53] INFO: Connected successfully
+[2025-12-12 08:34:53] OUTGOING: USERNAME: admin
+[2025-12-12 08:34:53] OUTGOING: PASSWORD: ********
+[2025-12-12 08:35:03] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:35:03] INFO: Disconnected from server
+[2025-12-12 08:35:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:35:08] INFO: Connected successfully
+[2025-12-12 08:35:08] OUTGOING: USERNAME: admin
+[2025-12-12 08:35:08] OUTGOING: PASSWORD: ********
+[2025-12-12 08:35:18] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:35:18] INFO: Disconnected from server
+[2025-12-12 08:35:23] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:35:23] INFO: Connected successfully
+[2025-12-12 08:35:23] OUTGOING: USERNAME: admin
+[2025-12-12 08:35:23] OUTGOING: PASSWORD: ********
+[2025-12-12 08:35:33] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:35:33] INFO: Disconnected from server
+[2025-12-12 08:35:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:35:38] INFO: Connected successfully
+[2025-12-12 08:35:38] OUTGOING: USERNAME: admin
+[2025-12-12 08:35:38] OUTGOING: PASSWORD: ********
+[2025-12-12 08:35:48] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:35:48] INFO: Disconnected from server
+[2025-12-12 08:35:53] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:35:53] INFO: Connected successfully
+[2025-12-12 08:35:53] OUTGOING: USERNAME: admin
+[2025-12-12 08:35:53] OUTGOING: PASSWORD: ********
+[2025-12-12 08:36:03] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:36:03] INFO: Disconnected from server
+[2025-12-12 08:36:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:36:08] INFO: Connected successfully
+[2025-12-12 08:36:08] OUTGOING: USERNAME: admin
+[2025-12-12 08:36:08] OUTGOING: PASSWORD: ********
+[2025-12-12 08:36:18] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:36:18] INFO: Disconnected from server
+[2025-12-12 08:36:23] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:36:23] INFO: Connected successfully
+[2025-12-12 08:36:23] OUTGOING: USERNAME: admin
+[2025-12-12 08:36:23] OUTGOING: PASSWORD: ********
+[2025-12-12 08:36:33] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:36:33] INFO: Disconnected from server
+[2025-12-12 08:36:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:36:38] INFO: Connected successfully
+[2025-12-12 08:36:38] OUTGOING: USERNAME: admin
+[2025-12-12 08:36:38] OUTGOING: PASSWORD: ********
+[2025-12-12 08:36:48] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:36:48] INFO: Disconnected from server
+[2025-12-12 08:36:53] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:36:53] INFO: Connected successfully
+[2025-12-12 08:36:53] OUTGOING: USERNAME: admin
+[2025-12-12 08:36:53] OUTGOING: PASSWORD: ********
+[2025-12-12 08:37:03] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:37:03] INFO: Disconnected from server
+[2025-12-12 08:37:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:37:08] INFO: Connected successfully
+[2025-12-12 08:37:08] OUTGOING: USERNAME: admin
+[2025-12-12 08:37:08] OUTGOING: PASSWORD: ********
+[2025-12-12 08:37:18] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:37:18] INFO: Disconnected from server
+[2025-12-12 08:37:23] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:37:23] INFO: Connected successfully
+[2025-12-12 08:37:23] OUTGOING: USERNAME: admin
+[2025-12-12 08:37:23] OUTGOING: PASSWORD: ********
+[2025-12-12 08:37:33] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:37:33] INFO: Disconnected from server
+[2025-12-12 08:37:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:37:38] INFO: Connected successfully
+[2025-12-12 08:37:38] OUTGOING: USERNAME: admin
+[2025-12-12 08:37:38] OUTGOING: PASSWORD: ********
+[2025-12-12 08:37:48] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:37:48] INFO: Disconnected from server
+[2025-12-12 08:37:53] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:37:53] INFO: Connected successfully
+[2025-12-12 08:37:53] OUTGOING: USERNAME: admin
+[2025-12-12 08:37:53] OUTGOING: PASSWORD: ********
+[2025-12-12 08:38:03] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:38:03] INFO: Disconnected from server
+[2025-12-12 08:38:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:38:08] INFO: Connected successfully
+[2025-12-12 08:38:08] OUTGOING: USERNAME: admin
+[2025-12-12 08:38:08] OUTGOING: PASSWORD: ********
+[2025-12-12 08:38:18] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:38:18] INFO: Disconnected from server
+[2025-12-12 08:38:23] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:38:23] INFO: Connected successfully
+[2025-12-12 08:38:23] OUTGOING: USERNAME: admin
+[2025-12-12 08:38:23] OUTGOING: PASSWORD: ********
+[2025-12-12 08:38:33] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:38:33] INFO: Disconnected from server
+[2025-12-12 08:38:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:38:38] INFO: Connected successfully
+[2025-12-12 08:38:38] OUTGOING: USERNAME: admin
+[2025-12-12 08:38:38] OUTGOING: PASSWORD: ********
+[2025-12-12 08:38:48] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:38:48] INFO: Disconnected from server
+[2025-12-12 08:38:53] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:38:53] INFO: Connected successfully
+[2025-12-12 08:38:53] OUTGOING: USERNAME: admin
+[2025-12-12 08:38:53] OUTGOING: PASSWORD: ********
+[2025-12-12 08:39:03] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:39:03] INFO: Disconnected from server
+[2025-12-12 08:39:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:39:08] INFO: Connected successfully
+[2025-12-12 08:39:08] OUTGOING: USERNAME: admin
+[2025-12-12 08:39:08] OUTGOING: PASSWORD: ********
+[2025-12-12 08:39:18] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:39:18] INFO: Disconnected from server
+[2025-12-12 08:39:23] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:39:23] INFO: Connected successfully
+[2025-12-12 08:39:23] OUTGOING: USERNAME: admin
+[2025-12-12 08:39:23] OUTGOING: PASSWORD: ********
+[2025-12-12 08:39:33] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:39:33] INFO: Disconnected from server
+[2025-12-12 08:39:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:39:38] INFO: Connected successfully
+[2025-12-12 08:39:38] OUTGOING: USERNAME: admin
+[2025-12-12 08:39:38] OUTGOING: PASSWORD: ********
+[2025-12-12 08:39:48] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:39:48] INFO: Disconnected from server
+[2025-12-12 08:39:53] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:39:53] INFO: Connected successfully
+[2025-12-12 08:39:53] OUTGOING: USERNAME: admin
+[2025-12-12 08:39:53] OUTGOING: PASSWORD: ********
+[2025-12-12 08:40:03] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:40:03] INFO: Disconnected from server
+[2025-12-12 08:40:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:40:08] INFO: Connected successfully
+[2025-12-12 08:40:08] OUTGOING: USERNAME: admin
+[2025-12-12 08:40:08] OUTGOING: PASSWORD: ********
+[2025-12-12 08:40:18] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:40:18] INFO: Disconnected from server
+[2025-12-12 08:40:23] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:40:23] INFO: Connected successfully
+[2025-12-12 08:40:23] OUTGOING: USERNAME: admin
+[2025-12-12 08:40:23] OUTGOING: PASSWORD: ********
+[2025-12-12 08:40:33] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:40:33] INFO: Disconnected from server
+[2025-12-12 08:40:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:40:38] INFO: Connected successfully
+[2025-12-12 08:40:38] OUTGOING: USERNAME: admin
+[2025-12-12 08:40:38] OUTGOING: PASSWORD: ********
+[2025-12-12 08:40:48] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:40:48] INFO: Disconnected from server
+[2025-12-12 08:40:53] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:40:53] INFO: Connected successfully
+[2025-12-12 08:40:53] OUTGOING: USERNAME: admin
+[2025-12-12 08:40:53] OUTGOING: PASSWORD: ********
+[2025-12-12 08:41:03] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:41:03] INFO: Disconnected from server
+[2025-12-12 08:41:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:41:08] INFO: Connected successfully
+[2025-12-12 08:41:08] OUTGOING: USERNAME: admin
+[2025-12-12 08:41:08] OUTGOING: PASSWORD: ********
+[2025-12-12 08:41:18] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:41:18] INFO: Disconnected from server
+[2025-12-12 08:41:23] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:41:23] INFO: Connected successfully
+[2025-12-12 08:41:23] OUTGOING: USERNAME: admin
+[2025-12-12 08:41:23] OUTGOING: PASSWORD: ********
+[2025-12-12 08:41:33] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:41:33] INFO: Disconnected from server
+[2025-12-12 08:41:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:41:38] INFO: Connected successfully
+[2025-12-12 08:41:38] OUTGOING: USERNAME: admin
+[2025-12-12 08:41:38] OUTGOING: PASSWORD: ********
+[2025-12-12 08:41:48] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:41:48] INFO: Disconnected from server
+[2025-12-12 08:41:53] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:41:53] INFO: Connected successfully
+[2025-12-12 08:41:53] OUTGOING: USERNAME: admin
+[2025-12-12 08:41:53] OUTGOING: PASSWORD: ********
+[2025-12-12 08:42:03] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:42:03] INFO: Disconnected from server
+[2025-12-12 08:42:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:42:08] INFO: Connected successfully
+[2025-12-12 08:42:08] OUTGOING: USERNAME: admin
+[2025-12-12 08:42:08] OUTGOING: PASSWORD: ********
+[2025-12-12 08:42:18] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:42:18] INFO: Disconnected from server
+[2025-12-12 08:42:23] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:42:23] INFO: Connected successfully
+[2025-12-12 08:42:23] OUTGOING: USERNAME: admin
+[2025-12-12 08:42:23] OUTGOING: PASSWORD: ********
+[2025-12-12 08:42:33] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:42:33] INFO: Disconnected from server
+[2025-12-12 08:42:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:42:38] INFO: Connected successfully
+[2025-12-12 08:42:38] OUTGOING: USERNAME: admin
+[2025-12-12 08:42:38] OUTGOING: PASSWORD: ********
+[2025-12-12 08:42:48] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:42:48] INFO: Disconnected from server
+[2025-12-12 08:42:53] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:42:53] INFO: Connected successfully
+[2025-12-12 08:42:53] OUTGOING: USERNAME: admin
+[2025-12-12 08:42:53] OUTGOING: PASSWORD: ********
+[2025-12-12 08:43:00] ERROR: Failed to read auth response: Connection reset
+[2025-12-12 08:43:05] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:43:05] INFO: Connected successfully
+[2025-12-12 08:43:05] OUTGOING: USERNAME: admin
+[2025-12-12 08:43:05] OUTGOING: PASSWORD: ********
+[2025-12-12 08:43:15] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:43:15] INFO: Disconnected from server
+[2025-12-12 08:43:20] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:43:20] INFO: Connected successfully
+[2025-12-12 08:43:20] OUTGOING: USERNAME: admin
+[2025-12-12 08:43:20] OUTGOING: PASSWORD: ********
+[2025-12-12 08:43:30] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:43:30] INFO: Disconnected from server
+[2025-12-12 08:43:35] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:43:35] INFO: Connected successfully
+[2025-12-12 08:43:35] OUTGOING: USERNAME: admin
+[2025-12-12 08:43:35] OUTGOING: PASSWORD: ********
+[2025-12-12 08:43:45] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:43:45] INFO: Disconnected from server
+[2025-12-12 08:43:50] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:43:50] INFO: Connected successfully
+[2025-12-12 08:43:50] OUTGOING: USERNAME: admin
+[2025-12-12 08:43:50] OUTGOING: PASSWORD: ********
+[2025-12-12 08:44:00] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:44:00] INFO: Disconnected from server
+[2025-12-12 08:44:05] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:44:05] INFO: Connected successfully
+[2025-12-12 08:44:05] OUTGOING: USERNAME: admin
+[2025-12-12 08:44:05] OUTGOING: PASSWORD: ********
+[2025-12-12 08:44:15] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:44:15] INFO: Disconnected from server
+[2025-12-12 08:44:20] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:44:20] INFO: Connected successfully
+[2025-12-12 08:44:20] OUTGOING: USERNAME: admin
+[2025-12-12 08:44:20] OUTGOING: PASSWORD: ********
+[2025-12-12 08:44:30] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:44:30] INFO: Disconnected from server
+[2025-12-12 08:44:35] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:44:35] INFO: Connected successfully
+[2025-12-12 08:44:35] OUTGOING: USERNAME: admin
+[2025-12-12 08:44:35] OUTGOING: PASSWORD: ********
+[2025-12-12 08:44:45] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:44:45] INFO: Disconnected from server
+[2025-12-12 08:44:50] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:44:50] INFO: Connected successfully
+[2025-12-12 08:44:50] OUTGOING: USERNAME: admin
+[2025-12-12 08:44:50] OUTGOING: PASSWORD: ********
+[2025-12-12 08:45:00] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:45:00] INFO: Disconnected from server
+[2025-12-12 08:45:05] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:45:05] INFO: Connected successfully
+[2025-12-12 08:45:05] OUTGOING: USERNAME: admin
+[2025-12-12 08:45:05] OUTGOING: PASSWORD: ********
+[2025-12-12 08:45:15] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:45:15] INFO: Disconnected from server
+[2025-12-12 08:45:20] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:45:20] INFO: Connected successfully
+[2025-12-12 08:45:20] OUTGOING: USERNAME: admin
+[2025-12-12 08:45:20] OUTGOING: PASSWORD: ********
+[2025-12-12 08:45:29] ERROR: Failed to read auth response: Connection reset
+[2025-12-12 08:45:34] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:45:34] INFO: Connected successfully
+[2025-12-12 08:45:34] OUTGOING: USERNAME: admin
+[2025-12-12 08:45:34] OUTGOING: PASSWORD: ********
+[2025-12-12 08:45:44] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:45:44] INFO: Disconnected from server
+[2025-12-12 08:45:49] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:45:49] INFO: Connected successfully
+[2025-12-12 08:45:49] OUTGOING: USERNAME: admin
+[2025-12-12 08:45:49] OUTGOING: PASSWORD: ********
+[2025-12-12 08:45:59] INFO: Application started
+[2025-12-12 08:45:59] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:45:59] INFO: Connected successfully
+[2025-12-12 08:45:59] OUTGOING: USERNAME: admin
+[2025-12-12 08:45:59] OUTGOING: PASSWORD: ********
+[2025-12-12 08:46:09] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:46:09] INFO: Disconnected from server
+[2025-12-12 08:46:09] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:46:09] INFO: Connected successfully
+[2025-12-12 08:46:09] OUTGOING: USERNAME: admin
+[2025-12-12 08:46:09] OUTGOING: PASSWORD: ********
+[2025-12-12 08:46:19] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:46:19] INFO: Disconnected from server
+[2025-12-12 08:46:24] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:46:24] INFO: Connected successfully
+[2025-12-12 08:46:24] OUTGOING: USERNAME: admin
+[2025-12-12 08:46:24] OUTGOING: PASSWORD: ********
+[2025-12-12 08:46:34] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:46:34] INFO: Disconnected from server
+[2025-12-12 08:46:39] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:46:39] INFO: Connected successfully
+[2025-12-12 08:46:39] OUTGOING: USERNAME: admin
+[2025-12-12 08:46:39] OUTGOING: PASSWORD: ********
+[2025-12-12 08:46:49] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:46:49] INFO: Disconnected from server
+[2025-12-12 08:46:54] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:46:54] INFO: Connected successfully
+[2025-12-12 08:46:54] OUTGOING: USERNAME: admin
+[2025-12-12 08:46:54] OUTGOING: PASSWORD: ********
+[2025-12-12 08:47:04] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:47:04] INFO: Disconnected from server
+[2025-12-12 08:47:09] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:47:09] INFO: Connected successfully
+[2025-12-12 08:47:09] OUTGOING: USERNAME: admin
+[2025-12-12 08:47:09] OUTGOING: PASSWORD: ********
+[2025-12-12 08:47:19] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:47:19] INFO: Disconnected from server
+[2025-12-12 08:47:24] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:47:24] INFO: Connected successfully
+[2025-12-12 08:47:24] OUTGOING: USERNAME: admin
+[2025-12-12 08:47:24] OUTGOING: PASSWORD: ********
+[2025-12-12 08:47:34] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:47:34] INFO: Disconnected from server
+[2025-12-12 08:47:39] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:47:39] INFO: Connected successfully
+[2025-12-12 08:47:39] OUTGOING: USERNAME: admin
+[2025-12-12 08:47:39] OUTGOING: PASSWORD: ********
+[2025-12-12 08:47:49] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:47:49] INFO: Disconnected from server
+[2025-12-12 08:47:54] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:47:54] INFO: Connected successfully
+[2025-12-12 08:47:54] OUTGOING: USERNAME: admin
+[2025-12-12 08:47:54] OUTGOING: PASSWORD: ********
+[2025-12-12 08:48:04] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:48:04] INFO: Disconnected from server
+[2025-12-12 08:48:09] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:48:09] INFO: Connected successfully
+[2025-12-12 08:48:09] OUTGOING: USERNAME: admin
+[2025-12-12 08:48:09] OUTGOING: PASSWORD: ********
+[2025-12-12 08:48:19] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:48:19] INFO: Disconnected from server
+[2025-12-12 08:48:24] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:48:24] INFO: Connected successfully
+[2025-12-12 08:48:24] OUTGOING: USERNAME: admin
+[2025-12-12 08:48:24] OUTGOING: PASSWORD: ********
+[2025-12-12 08:48:34] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:48:34] INFO: Disconnected from server
+[2025-12-12 08:48:39] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:48:39] INFO: Connected successfully
+[2025-12-12 08:48:39] OUTGOING: USERNAME: admin
+[2025-12-12 08:48:39] OUTGOING: PASSWORD: ********
+[2025-12-12 08:48:49] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:48:49] INFO: Disconnected from server
+[2025-12-12 08:48:54] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:48:54] INFO: Connected successfully
+[2025-12-12 08:48:54] OUTGOING: USERNAME: admin
+[2025-12-12 08:48:54] OUTGOING: PASSWORD: ********
+[2025-12-12 08:49:04] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:49:04] INFO: Disconnected from server
+[2025-12-12 08:49:09] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:49:09] INFO: Connected successfully
+[2025-12-12 08:49:09] OUTGOING: USERNAME: admin
+[2025-12-12 08:49:09] OUTGOING: PASSWORD: ********
+[2025-12-12 08:49:19] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:49:19] INFO: Disconnected from server
+[2025-12-12 08:49:24] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:49:24] INFO: Connected successfully
+[2025-12-12 08:49:24] OUTGOING: USERNAME: admin
+[2025-12-12 08:49:24] OUTGOING: PASSWORD: ********
+[2025-12-12 08:49:34] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:49:34] INFO: Disconnected from server
+[2025-12-12 08:49:39] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:49:39] INFO: Connected successfully
+[2025-12-12 08:49:39] OUTGOING: USERNAME: admin
+[2025-12-12 08:49:39] OUTGOING: PASSWORD: ********
+[2025-12-12 08:49:49] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:49:49] INFO: Disconnected from server
+[2025-12-12 08:49:54] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:49:54] INFO: Connected successfully
+[2025-12-12 08:49:54] OUTGOING: USERNAME: admin
+[2025-12-12 08:49:54] OUTGOING: PASSWORD: ********
+[2025-12-12 08:50:04] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:50:04] INFO: Disconnected from server
+[2025-12-12 08:50:09] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:50:09] INFO: Connected successfully
+[2025-12-12 08:50:09] OUTGOING: USERNAME: admin
+[2025-12-12 08:50:09] OUTGOING: PASSWORD: ********
+[2025-12-12 08:50:19] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:50:19] INFO: Disconnected from server
+[2025-12-12 08:50:24] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:50:24] INFO: Connected successfully
+[2025-12-12 08:50:24] OUTGOING: USERNAME: admin
+[2025-12-12 08:50:24] OUTGOING: PASSWORD: ********
+[2025-12-12 08:50:34] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:50:34] INFO: Disconnected from server
+[2025-12-12 08:50:39] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:50:39] INFO: Connected successfully
+[2025-12-12 08:50:39] OUTGOING: USERNAME: admin
+[2025-12-12 08:50:39] OUTGOING: PASSWORD: ********
+[2025-12-12 08:50:49] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:50:49] INFO: Disconnected from server
+[2025-12-12 08:50:54] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:50:54] INFO: Connected successfully
+[2025-12-12 08:50:54] OUTGOING: USERNAME: admin
+[2025-12-12 08:50:54] OUTGOING: PASSWORD: ********
+[2025-12-12 08:51:04] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:51:04] INFO: Disconnected from server
+[2025-12-12 08:51:09] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:51:09] INFO: Connected successfully
+[2025-12-12 08:51:09] OUTGOING: USERNAME: admin
+[2025-12-12 08:51:09] OUTGOING: PASSWORD: ********
+[2025-12-12 08:51:19] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:51:19] INFO: Disconnected from server
+[2025-12-12 08:51:24] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:51:24] INFO: Connected successfully
+[2025-12-12 08:51:24] OUTGOING: USERNAME: admin
+[2025-12-12 08:51:24] OUTGOING: PASSWORD: ********
+[2025-12-12 08:51:34] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:51:34] INFO: Disconnected from server
+[2025-12-12 08:51:39] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:51:39] INFO: Connected successfully
+[2025-12-12 08:51:39] OUTGOING: USERNAME: admin
+[2025-12-12 08:51:39] OUTGOING: PASSWORD: ********
+[2025-12-12 08:51:49] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:51:49] INFO: Disconnected from server
+[2025-12-12 08:51:54] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:51:54] INFO: Connected successfully
+[2025-12-12 08:51:54] OUTGOING: USERNAME: admin
+[2025-12-12 08:51:54] OUTGOING: PASSWORD: ********
+[2025-12-12 08:52:04] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:52:04] INFO: Disconnected from server
+[2025-12-12 08:52:09] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:52:09] INFO: Connected successfully
+[2025-12-12 08:52:09] OUTGOING: USERNAME: admin
+[2025-12-12 08:52:09] OUTGOING: PASSWORD: ********
+[2025-12-12 08:52:19] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:52:19] INFO: Disconnected from server
+[2025-12-12 08:52:24] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:52:24] INFO: Connected successfully
+[2025-12-12 08:52:24] OUTGOING: USERNAME: admin
+[2025-12-12 08:52:24] OUTGOING: PASSWORD: ********
+[2025-12-12 08:52:34] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:52:34] INFO: Disconnected from server
+[2025-12-12 08:52:39] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:52:39] INFO: Connected successfully
+[2025-12-12 08:52:39] OUTGOING: USERNAME: admin
+[2025-12-12 08:52:39] OUTGOING: PASSWORD: ********
+[2025-12-12 08:52:49] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:52:49] INFO: Disconnected from server
+[2025-12-12 08:52:54] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:52:54] INFO: Connected successfully
+[2025-12-12 08:52:54] OUTGOING: USERNAME: admin
+[2025-12-12 08:52:54] OUTGOING: PASSWORD: ********
+[2025-12-12 08:53:04] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:53:04] INFO: Disconnected from server
+[2025-12-12 08:53:09] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:53:09] INFO: Connected successfully
+[2025-12-12 08:53:09] OUTGOING: USERNAME: admin
+[2025-12-12 08:53:09] OUTGOING: PASSWORD: ********
+[2025-12-12 08:53:19] ERROR: Failed to read auth response: Read timed out
+[2025-12-12 08:53:19] INFO: Disconnected from server
+[2025-12-12 08:53:24] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:53:24] INFO: Connected successfully
+[2025-12-12 08:53:24] OUTGOING: USERNAME: admin
+[2025-12-12 08:53:24] OUTGOING: PASSWORD: ********
+[2025-12-12 08:53:36] INFO: Application started
+[2025-12-12 08:53:36] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:53:36] INFO: Connected successfully
+[2025-12-12 08:53:36] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 08:53:36] INCOMING: AUTH_RESPONSE: 200 OK
+[2025-12-12 08:53:36] INCOMING: SERVER: CSV_DUMP_START
+[2025-12-12 08:53:36] INCOMING: File size: 171192883 bytes
+[2025-12-12 08:53:46] OUTGOING: HEARTBEAT
+[2025-12-12 08:53:56] OUTGOING: HEARTBEAT
+[2025-12-12 08:54:01] ERROR: Failed to receive data file: Connection reset
+[2025-12-12 08:54:06] ERROR: Heartbeat failed: Connection reset by peer
+[2025-12-12 08:54:06] ERROR: Connection lost
+[2025-12-12 08:54:06] INFO: Disconnected from server
+[2025-12-12 08:54:11] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:54:11] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 08:54:16] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:54:16] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 08:54:21] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:54:21] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 08:54:26] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:54:26] ERROR: Connection failed: Connection refused: connect
+[2025-12-12 08:54:31] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:54:31] INFO: Connected successfully
+[2025-12-12 08:54:31] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 08:54:31] INCOMING: AUTH_RESPONSE: 200 OK
+[2025-12-12 08:54:31] INCOMING: SERVER: CSV_DUMP_START
+[2025-12-12 08:54:31] INCOMING: File size: 19014 bytes
+[2025-12-12 08:54:31] INFO: Data file saved: downloaded_data.csv
+[2025-12-12 08:54:31] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-12 08:54:31] INCOMING: SERVER: READY
+[2025-12-12 08:54:41] OUTGOING: HEARTBEAT
+[2025-12-12 08:54:51] OUTGOING: HEARTBEAT
+[2025-12-12 08:55:01] OUTGOING: HEARTBEAT
+[2025-12-12 08:55:11] OUTGOING: HEARTBEAT
+[2025-12-12 08:55:21] OUTGOING: HEARTBEAT
+[2025-12-12 08:55:31] OUTGOING: HEARTBEAT
+[2025-12-12 08:55:41] OUTGOING: HEARTBEAT
+[2025-12-12 08:55:51] OUTGOING: HEARTBEAT
+[2025-12-12 08:56:01] OUTGOING: HEARTBEAT
+[2025-12-12 08:56:04] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-12 08:56:04] INCOMING: TICKER_RESULT: NOT_FOUND: Ticker not found: HEARTBEAT 	HEARTBEAT 	HEARTBEAT 	HEARTBEAT 	HEARTBEAT 	HEARTBEAT 	HEARTBEAT 	HEARTBEAT 	HEARTBEATNBK
+[2025-12-12 08:56:11] OUTGOING: HEARTBEAT
+[2025-12-12 08:56:21] OUTGOING: HEARTBEAT
+[2025-12-12 08:56:22] OUTGOING: ISO8583 command sent
+[2025-12-12 08:56:31] OUTGOING: HEARTBEAT
+[2025-12-12 08:56:41] OUTGOING: HEARTBEAT
+[2025-12-12 08:56:51] OUTGOING: HEARTBEAT
+[2025-12-12 08:56:58] OUTGOING: TICKER_SEARCH: APPLE
+[2025-12-12 08:56:58] INCOMING: TICKER_RESULT: NOT_FOUND: Ticker not found: HEARTBEAT 	HEARTBEAT 	HEARTBEATAPPLE
+[2025-12-12 08:57:01] OUTGOING: HEARTBEAT
+[2025-12-12 08:57:11] OUTGOING: HEARTBEAT
+[2025-12-12 08:57:21] OUTGOING: HEARTBEAT
+[2025-12-12 08:57:31] OUTGOING: HEARTBEAT
+[2025-12-12 08:57:41] OUTGOING: HEARTBEAT
+[2025-12-12 08:57:51] OUTGOING: HEARTBEAT
+[2025-12-12 08:58:01] OUTGOING: HEARTBEAT
+[2025-12-12 08:58:11] OUTGOING: HEARTBEAT
+[2025-12-12 08:58:21] OUTGOING: HEARTBEAT
+[2025-12-12 08:58:31] OUTGOING: HEARTBEAT
+[2025-12-12 08:58:41] OUTGOING: HEARTBEAT
+[2025-12-12 08:58:51] OUTGOING: HEARTBEAT
+[2025-12-12 08:59:01] OUTGOING: HEARTBEAT
+[2025-12-12 08:59:11] OUTGOING: HEARTBEAT
+[2025-12-12 08:59:23] INFO: Application started
+[2025-12-12 08:59:23] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-12 08:59:23] INFO: Connected successfully
+[2025-12-12 08:59:23] OUTGOING: CREDENTIALS: admin:********
+[2025-12-12 08:59:23] INCOMING: AUTH_RESPONSE: 200 OK
+[2025-12-12 08:59:23] INCOMING: SERVER: CSV_DUMP_START
+[2025-12-12 08:59:23] INCOMING: File size: 19014 bytes
+[2025-12-12 08:59:23] INFO: Data file saved: downloaded_data.csv
+[2025-12-12 08:59:23] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-12 08:59:23] INCOMING: SERVER: READY
+[2025-12-12 08:59:32] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-12 08:59:32] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: "1
+[2025-12-12 08:59:33] OUTGOING: HEARTBEAT
+[2025-12-12 08:59:43] OUTGOING: HEARTBEAT
+[2025-12-12 08:59:54] OUTGOING: HEARTBEAT
+[2025-12-12 15:47:00] OUTGOING: HEARTBEAT
+[2025-12-12 15:47:10] OUTGOING: HEARTBEAT
+[2025-12-12 15:47:20] OUTGOING: HEARTBEAT
+[2025-12-12 15:47:30] OUTGOING: HEARTBEAT
+[2025-12-12 15:47:40] OUTGOING: HEARTBEAT
+[2025-12-12 15:47:50] OUTGOING: HEARTBEAT
+[2025-12-12 15:48:00] OUTGOING: HEARTBEAT
+[2025-12-12 15:48:10] OUTGOING: HEARTBEAT
+[2025-12-12 15:48:20] OUTGOING: HEARTBEAT
+[2025-12-12 15:48:30] OUTGOING: HEARTBEAT
+[2025-12-12 15:48:40] OUTGOING: HEARTBEAT
+[2025-12-12 15:48:50] OUTGOING: HEARTBEAT
+[2025-12-12 17:49:58] OUTGOING: HEARTBEAT
+[2025-12-12 17:50:08] OUTGOING: HEARTBEAT
+[2025-12-12 19:28:25] OUTGOING: HEARTBEAT
+[2025-12-12 19:28:35] OUTGOING: HEARTBEAT
+[2025-12-12 19:28:45] OUTGOING: HEARTBEAT
+[2025-12-12 19:28:55] OUTGOING: HEARTBEAT
+[2025-12-12 19:29:05] OUTGOING: HEARTBEAT
+[2025-12-12 19:29:15] OUTGOING: HEARTBEAT
+[2025-12-12 19:29:25] OUTGOING: HEARTBEAT
+[2025-12-12 19:29:35] OUTGOING: HEARTBEAT
+[2025-12-12 19:29:45] OUTGOING: HEARTBEAT
+[2025-12-12 19:29:55] OUTGOING: HEARTBEAT
+[2025-12-12 19:30:05] OUTGOING: HEARTBEAT
+[2025-12-12 19:30:15] OUTGOING: HEARTBEAT
+[2025-12-12 19:30:25] OUTGOING: HEARTBEAT
+[2025-12-12 19:30:35] OUTGOING: HEARTBEAT
+[2025-12-12 19:30:45] OUTGOING: HEARTBEAT
+[2025-12-12 19:30:55] OUTGOING: HEARTBEAT
+[2025-12-12 19:31:05] OUTGOING: HEARTBEAT
+[2025-12-12 19:31:15] OUTGOING: HEARTBEAT
+[2025-12-12 19:31:25] OUTGOING: HEARTBEAT
+[2025-12-12 19:31:35] OUTGOING: HEARTBEAT
+[2025-12-12 19:31:45] OUTGOING: HEARTBEAT
+[2025-12-12 19:31:55] OUTGOING: HEARTBEAT
+[2025-12-12 19:32:05] OUTGOING: HEARTBEAT
+[2025-12-12 19:32:15] OUTGOING: HEARTBEAT
+[2025-12-12 19:32:25] OUTGOING: HEARTBEAT
+[2025-12-12 19:32:35] OUTGOING: HEARTBEAT
+[2025-12-12 19:32:45] OUTGOING: HEARTBEAT
+[2025-12-12 19:32:55] OUTGOING: HEARTBEAT
+[2025-12-12 19:33:05] OUTGOING: HEARTBEAT
+[2025-12-12 19:33:15] OUTGOING: HEARTBEAT
+[2025-12-12 19:33:25] OUTGOING: HEARTBEAT
+[2025-12-12 19:33:35] OUTGOING: HEARTBEAT
+[2025-12-12 19:33:45] OUTGOING: HEARTBEAT
+[2025-12-12 19:33:55] OUTGOING: HEARTBEAT
+[2025-12-12 19:34:05] OUTGOING: HEARTBEAT
+[2025-12-12 19:34:15] OUTGOING: HEARTBEAT
+[2025-12-12 19:34:25] OUTGOING: HEARTBEAT
+[2025-12-12 19:34:35] OUTGOING: HEARTBEAT
+[2025-12-12 19:34:46] OUTGOING: HEARTBEAT
+[2025-12-12 19:34:56] OUTGOING: HEARTBEAT
+[2025-12-12 19:35:06] OUTGOING: HEARTBEAT
+[2025-12-12 19:35:16] OUTGOING: HEARTBEAT
+[2025-12-12 19:35:26] OUTGOING: HEARTBEAT
+[2025-12-12 19:35:36] OUTGOING: HEARTBEAT
+[2025-12-12 19:35:46] OUTGOING: HEARTBEAT
+[2025-12-12 19:35:56] OUTGOING: HEARTBEAT
+[2025-12-12 19:36:06] OUTGOING: HEARTBEAT
+[2025-12-12 19:36:16] OUTGOING: HEARTBEAT
+[2025-12-12 19:36:26] OUTGOING: HEARTBEAT
+[2025-12-12 19:36:36] OUTGOING: HEARTBEAT
+[2025-12-12 19:36:46] OUTGOING: HEARTBEAT
+[2025-12-12 19:36:56] OUTGOING: HEARTBEAT
+[2025-12-12 19:37:06] OUTGOING: HEARTBEAT
+[2025-12-12 19:37:16] OUTGOING: HEARTBEAT
+[2025-12-12 19:37:26] OUTGOING: HEARTBEAT
+[2025-12-12 19:37:36] OUTGOING: HEARTBEAT
+[2025-12-12 19:37:46] OUTGOING: HEARTBEAT
+[2025-12-12 19:37:56] OUTGOING: HEARTBEAT
+[2025-12-12 19:38:06] OUTGOING: HEARTBEAT
+[2025-12-12 19:38:16] OUTGOING: HEARTBEAT
+[2025-12-12 19:38:26] OUTGOING: HEARTBEAT
+[2025-12-12 22:29:58] OUTGOING: HEARTBEAT
+[2025-12-12 22:30:08] OUTGOING: HEARTBEAT
+[2025-12-13 00:58:15] OUTGOING: HEARTBEAT
+[2025-12-13 00:58:25] OUTGOING: HEARTBEAT
+[2025-12-13 00:58:35] OUTGOING: HEARTBEAT
+[2025-12-13 00:58:45] OUTGOING: HEARTBEAT
+[2025-12-13 00:58:55] OUTGOING: HEARTBEAT
+[2025-12-13 00:59:12] INFO: Application started
+[2025-12-13 00:59:12] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 00:59:12] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 00:59:12] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 00:59:12] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 00:59:17] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 00:59:17] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 00:59:22] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 00:59:22] INFO: Connected successfully
+[2025-12-13 00:59:22] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 00:59:22] INCOMING: AUTH_RESPONSE: 200 OK
+[2025-12-13 00:59:22] INCOMING: SERVER: CSV_DUMP_START
+[2025-12-13 00:59:22] INCOMING: File size: 19014 bytes
+[2025-12-13 00:59:22] INFO: Data file saved: downloaded_data.csv
+[2025-12-13 00:59:22] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 00:59:22] INCOMING: SERVER: READY
+[2025-12-13 00:59:32] OUTGOING: HEARTBEAT
+[2025-12-13 00:59:42] OUTGOING: HEARTBEAT
+[2025-12-13 00:59:52] OUTGOING: HEARTBEAT
+[2025-12-13 01:00:02] OUTGOING: HEARTBEAT
+[2025-12-13 01:00:12] OUTGOING: HEARTBEAT
+[2025-12-13 01:00:20] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 01:00:20] INCOMING: TICKER_RESULT: NOT_FOUND: Ticker not found: HEARTBEAT
+[2025-12-13 01:00:22] OUTGOING: HEARTBEAT
+[2025-12-13 01:00:32] OUTGOING: HEARTBEAT
+[2025-12-13 01:00:42] OUTGOING: HEARTBEAT
+[2025-12-13 01:00:52] OUTGOING: HEARTBEAT
+[2025-12-13 01:01:02] OUTGOING: HEARTBEAT
+[2025-12-13 01:01:12] OUTGOING: HEARTBEAT
+[2025-12-13 01:01:22] OUTGOING: HEARTBEAT
+[2025-12-13 01:01:32] OUTGOING: HEARTBEAT
+[2025-12-13 01:01:42] OUTGOING: HEARTBEAT
+[2025-12-13 01:01:58] INFO: Application started
+[2025-12-13 01:01:58] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:01:58] INFO: Connected successfully
+[2025-12-13 01:01:58] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:01:58] INCOMING: AUTH_RESPONSE: 200 OK
+[2025-12-13 01:01:58] INCOMING: SERVER: CSV_DUMP_START
+[2025-12-13 01:01:58] INFO: Heartbeat disabled - relying on server timeout (90s)
+[2025-12-13 01:01:58] INCOMING: File size: 19014 bytes
+[2025-12-13 01:01:58] INFO: Data file saved: downloaded_data.csv
+[2025-12-13 01:01:58] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 01:01:58] INCOMING: SERVER: READY
+[2025-12-13 01:02:07] INFO: Application started
+[2025-12-13 01:02:07] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:02:07] INFO: Connected successfully
+[2025-12-13 01:02:07] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:02:07] INCOMING: AUTH_RESPONSE: 200 OK
+[2025-12-13 01:02:07] INCOMING: SERVER: CSV_DUMP_START
+[2025-12-13 01:02:07] INFO: Heartbeat disabled - relying on server timeout (90s)
+[2025-12-13 01:02:07] INCOMING: File size: 1096368428 bytes
+[2025-12-13 01:03:37] ERROR: Failed to receive data file: null
+[2025-12-13 01:03:37] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 01:03:37] INCOMING: TICKER_RESULT:   JFSecurity Code,Security Ticker,Security Name,Sector,Previous Closing Price,Open Price,High,Low,Closing Price,Volume,Value,No. of Trades,No. of Shares,Market Cap
+[2025-12-13 01:04:07] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 01:04:07] INCOMING: TICKER_RESULT: 101,NBK,NATIONAL BANK OF KUWAIT,BANKS,"1,040.00","1,040.00","1,040.00","1,032.00","1,039.00","1,888,450","1,957,021.69",417,"8,742,765,046","9,083,732,882.79"
+[2025-12-13 01:04:26] OUTGOING: TICKER_SEARCH: ABK
+[2025-12-13 01:04:26] INCOMING: TICKER_RESULT: 102,GBK,GULF BANK,BANKS,372,371,372,366,368,"3,841,421","1,415,674.05",243,"3,983,019,703","1,465,751,250.70"
+[2025-12-13 01:05:08] OUTGOING: ISO8583 command sent
+[2025-12-13 01:06:30] OUTGOING: ISO8583 command sent
+[2025-12-13 01:06:40] INFO: Application started
+[2025-12-13 01:06:40] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:06:40] INFO: Connected successfully
+[2025-12-13 01:06:40] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:06:40] INCOMING: AUTH_RESPONSE: 200 OK
+[2025-12-13 01:06:40] INCOMING: SERVER: CSV_DUMP_START
+[2025-12-13 01:06:40] INFO: Heartbeat disabled - relying on server timeout (90s)
+[2025-12-13 01:06:40] INCOMING: File size: 19014 bytes
+[2025-12-13 01:06:40] INFO: Data file saved: downloaded_data.csv
+[2025-12-13 01:06:40] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 01:06:40] INCOMING: SERVER: READY
+[2025-12-13 01:06:42] OUTGOING: ISO8583 command sent
+[2025-12-13 01:06:42] INCOMING: ISO_READY response: ISO_READY
+[2025-12-13 01:06:42] OUTGOING: ISO8583 Header sent: 08 00
+[2025-12-13 01:06:42] INCOMING: ISO8583 Response Header: 08 10
+[2025-12-13 01:06:42] INCOMING: ISO8583 Response Message: Balance Enquiry SUCCESS - Account Balance: $10,000.00
+[2025-12-13 01:06:42] INCOMING: ISO8583_STATUS: ISO8583_SUCCESS
+[2025-12-13 01:07:42] OUTGOING: TICKER_SEARCH: GBK
+[2025-12-13 01:07:42] INCOMING: TICKER_RESULT: FOUND: GBK | GULF BANK | Sector: BANKS | Price: 372
+[2025-12-13 01:07:55] OUTGOING: TICKER_SEARCH: GULF
+[2025-12-13 01:07:55] INCOMING: TICKER_RESULT: NOT_FOUND: Ticker not found: GULF
+[2025-12-13 01:08:12] INFO: Disconnected from server
+[2025-12-13 01:08:12] INFO: Application terminated
+[2025-12-13 01:10:44] INFO: Application started
+[2025-12-13 01:10:44] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:10:44] INFO: Connected successfully
+[2025-12-13 01:10:44] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:10:44] INCOMING: AUTH_RESPONSE: 200 OK
+[2025-12-13 01:10:44] INCOMING: SERVER: CSV_DUMP_START
+[2025-12-13 01:10:44] INFO: Heartbeat disabled - relying on server timeout (90s)
+[2025-12-13 01:10:44] INCOMING: File size: 19014 bytes
+[2025-12-13 01:10:44] INFO: Data file saved: downloaded_data.csv
+[2025-12-13 01:10:44] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 01:10:44] INCOMING: SERVER: READY
+[2025-12-13 01:13:04] INFO: Application started
+[2025-12-13 01:13:04] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:13:04] INFO: Connected successfully
+[2025-12-13 01:13:04] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:13:04] INCOMING: AUTH_RESPONSE: 200 OK
+[2025-12-13 01:13:04] INCOMING: SERVER: CSV_DUMP_START
+[2025-12-13 01:13:04] INFO: Heartbeat disabled - relying on server timeout (90s)
+[2025-12-13 01:13:04] INCOMING: File size: 19014 bytes
+[2025-12-13 01:13:04] INFO: Data file saved: downloaded_data.csv
+[2025-12-13 01:13:04] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 01:13:04] INCOMING: SERVER: READY
+[2025-12-13 01:27:32] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 01:27:32] ERROR: Ticker search failed: An established connection was aborted by the software in your host machine
+[2025-12-13 01:27:32] ERROR: Connection lost
+[2025-12-13 01:27:32] INFO: Disconnected from server
+[2025-12-13 01:27:35] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:27:35] INFO: Connected successfully
+[2025-12-13 01:27:35] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:27:35] INCOMING: AUTH_RESPONSE: 200 OK
+[2025-12-13 01:27:35] INCOMING: SERVER: CSV_DUMP_START
+[2025-12-13 01:27:35] INFO: Heartbeat disabled - relying on server timeout (90s)
+[2025-12-13 01:27:35] INCOMING: File size: 19014 bytes
+[2025-12-13 01:27:35] INFO: Data file saved: downloaded_data.csv
+[2025-12-13 01:27:35] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 01:27:35] INCOMING: SERVER: READY
+[2025-12-13 01:27:48] OUTGOING: TICKER_SEARCH: ARZAN
+[2025-12-13 01:27:49] INCOMING: TICKER_RESULT: FOUND: ARZAN | ARZAN FINANCIAL GROUP FOR FINANCING AND INVESTMENT | Sector: FINANCIAL SERVICES | Price: 352
+[2025-12-13 01:27:55] OUTGOING: ISO8583 command sent
+[2025-12-13 01:27:55] INCOMING: ISO_READY response: ISO_READY
+[2025-12-13 01:27:55] OUTGOING: ISO8583 Header sent: 08 00
+[2025-12-13 01:27:55] INCOMING: ISO8583 Response Header: 08 10
+[2025-12-13 01:27:55] INCOMING: ISO8583 Response Message: Balance Enquiry SUCCESS - Account Balance: $10,000.00
+[2025-12-13 01:27:55] INCOMING: ISO8583_STATUS: ISO8583_SUCCESS
+[2025-12-13 01:37:10] INFO: Application started
+[2025-12-13 01:37:10] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:37:10] INFO: Connected successfully
+[2025-12-13 01:37:10] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:37:10] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:37:10] INFO: Disconnected from server
+[2025-12-13 01:37:10] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:37:10] INFO: Connected successfully
+[2025-12-13 01:37:10] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:37:10] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:37:10] INFO: Disconnected from server
+[2025-12-13 01:37:15] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:37:15] INFO: Connected successfully
+[2025-12-13 01:37:15] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:37:15] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:37:15] INFO: Disconnected from server
+[2025-12-13 01:37:25] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:37:25] INFO: Connected successfully
+[2025-12-13 01:37:25] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:37:25] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:37:25] INFO: Disconnected from server
+[2025-12-13 01:37:40] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:37:40] INFO: Connected successfully
+[2025-12-13 01:37:40] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:37:40] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:37:40] INFO: Disconnected from server
+[2025-12-13 01:38:00] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:38:00] INFO: Connected successfully
+[2025-12-13 01:38:00] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:38:00] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:38:00] INFO: Disconnected from server
+[2025-12-13 01:38:25] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:38:25] INFO: Connected successfully
+[2025-12-13 01:38:25] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:38:25] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:38:25] INFO: Disconnected from server
+[2025-12-13 01:38:55] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:38:55] INFO: Connected successfully
+[2025-12-13 01:38:55] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:38:55] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:38:55] INFO: Disconnected from server
+[2025-12-13 01:39:22] INFO: Application started
+[2025-12-13 01:39:22] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:39:22] INFO: Connected successfully
+[2025-12-13 01:39:23] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:39:23] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:39:23] INFO: Disconnected from server
+[2025-12-13 01:39:23] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:39:23] INFO: Connected successfully
+[2025-12-13 01:39:23] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:39:23] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:39:23] INFO: Disconnected from server
+[2025-12-13 01:39:28] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:39:28] INFO: Connected successfully
+[2025-12-13 01:39:28] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:39:28] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:39:28] INFO: Disconnected from server
+[2025-12-13 01:39:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:39:38] INFO: Connected successfully
+[2025-12-13 01:39:38] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:39:38] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:39:38] INFO: Disconnected from server
+[2025-12-13 01:39:53] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:39:53] INFO: Connected successfully
+[2025-12-13 01:39:53] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:39:53] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:39:53] INFO: Disconnected from server
+[2025-12-13 01:40:13] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:40:13] INFO: Connected successfully
+[2025-12-13 01:40:13] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:40:13] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:40:13] INFO: Disconnected from server
+[2025-12-13 01:40:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:40:38] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 01:41:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:41:08] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 01:41:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:41:38] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 01:42:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:42:08] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 01:42:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:42:38] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 01:42:53] INFO: Application started
+[2025-12-13 01:42:53] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:42:53] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 01:42:53] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:42:53] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 01:42:58] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:42:58] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 01:43:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:43:08] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 01:43:23] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:43:23] INFO: Connected successfully
+[2025-12-13 01:43:23] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:43:23] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:43:23] INFO: Disconnected from server
+[2025-12-13 01:43:43] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:43:43] INFO: Connected successfully
+[2025-12-13 01:43:43] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:43:43] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:43:43] INFO: Disconnected from server
+[2025-12-13 01:44:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:44:08] INFO: Connected successfully
+[2025-12-13 01:44:08] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:44:08] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:44:08] INFO: Disconnected from server
+[2025-12-13 01:44:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:44:38] INFO: Connected successfully
+[2025-12-13 01:44:38] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:44:38] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:44:38] INFO: Disconnected from server
+[2025-12-13 01:45:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:45:08] INFO: Connected successfully
+[2025-12-13 01:45:08] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:45:08] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:45:08] INFO: Disconnected from server
+[2025-12-13 01:45:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:45:38] INFO: Connected successfully
+[2025-12-13 01:45:38] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:45:38] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:45:38] INFO: Disconnected from server
+[2025-12-13 01:46:08] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:46:08] INFO: Connected successfully
+[2025-12-13 01:46:08] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:46:08] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:46:08] INFO: Disconnected from server
+[2025-12-13 01:46:38] ERROR: Max reconnection attempts reached
+[2025-12-13 01:48:11] INFO: Application started
+[2025-12-13 01:48:11] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:48:11] INFO: Connected successfully
+[2025-12-13 01:48:11] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:48:11] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:48:11] INFO: Disconnected from server
+[2025-12-13 01:48:11] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:48:11] INFO: Connected successfully
+[2025-12-13 01:48:11] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:48:11] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:48:11] INFO: Disconnected from server
+[2025-12-13 01:48:16] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:48:16] INFO: Connected successfully
+[2025-12-13 01:48:16] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:48:16] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:48:16] INFO: Disconnected from server
+[2025-12-13 01:48:26] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:48:26] INFO: Connected successfully
+[2025-12-13 01:48:26] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:48:26] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:48:26] INFO: Disconnected from server
+[2025-12-13 01:48:41] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:48:41] INFO: Connected successfully
+[2025-12-13 01:48:41] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:48:41] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:48:41] INFO: Disconnected from server
+[2025-12-13 01:49:01] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:49:01] INFO: Connected successfully
+[2025-12-13 01:49:01] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:49:01] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:49:01] INFO: Disconnected from server
+[2025-12-13 01:49:26] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:49:26] INFO: Connected successfully
+[2025-12-13 01:49:26] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:49:26] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:49:26] INFO: Disconnected from server
+[2025-12-13 01:49:56] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:49:56] INFO: Connected successfully
+[2025-12-13 01:49:56] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:49:56] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:49:56] INFO: Disconnected from server
+[2025-12-13 01:50:26] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:50:26] INFO: Connected successfully
+[2025-12-13 01:50:26] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:50:26] INCOMING: AUTH_RESPONSE: SxmH44AUm7U6drYIKzLesQ==
+[2025-12-13 01:50:26] INFO: Disconnected from server
+[2025-12-13 01:51:45] INFO: Application started
+[2025-12-13 01:51:45] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:51:45] INFO: Connected successfully
+[2025-12-13 01:51:45] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:52:15] ERROR: Authentication timeout: Read timed out
+[2025-12-13 01:52:15] INFO: Disconnected from server
+[2025-12-13 01:52:15] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:52:15] INFO: Connected successfully
+[2025-12-13 01:52:15] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:52:45] ERROR: Authentication timeout: Read timed out
+[2025-12-13 01:52:45] INFO: Disconnected from server
+[2025-12-13 01:52:50] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:52:50] INFO: Connected successfully
+[2025-12-13 01:52:50] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:53:20] ERROR: Authentication timeout: Read timed out
+[2025-12-13 01:53:20] INFO: Disconnected from server
+[2025-12-13 01:53:30] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:53:30] INFO: Connected successfully
+[2025-12-13 01:53:30] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:54:00] ERROR: Authentication timeout: Read timed out
+[2025-12-13 01:54:00] INFO: Disconnected from server
+[2025-12-13 01:54:15] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:54:15] INFO: Connected successfully
+[2025-12-13 01:54:15] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:54:45] ERROR: Authentication timeout: Read timed out
+[2025-12-13 01:54:45] INFO: Disconnected from server
+[2025-12-13 01:55:05] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:55:05] INFO: Connected successfully
+[2025-12-13 01:55:05] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:55:35] ERROR: Authentication timeout: Read timed out
+[2025-12-13 01:55:35] INFO: Disconnected from server
+[2025-12-13 01:55:42] INFO: Application started
+[2025-12-13 01:55:42] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:55:42] INFO: Connected successfully
+[2025-12-13 01:55:42] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:56:12] ERROR: Authentication timeout: Read timed out
+[2025-12-13 01:56:12] INFO: Disconnected from server
+[2025-12-13 01:56:12] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:56:12] INFO: Connected successfully
+[2025-12-13 01:56:12] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:56:42] ERROR: Authentication timeout: Read timed out
+[2025-12-13 01:56:42] INFO: Disconnected from server
+[2025-12-13 01:56:47] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:56:47] INFO: Connected successfully
+[2025-12-13 01:56:47] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:57:17] ERROR: Authentication timeout: Read timed out
+[2025-12-13 01:57:17] INFO: Disconnected from server
+[2025-12-13 01:57:27] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:57:27] INFO: Connected successfully
+[2025-12-13 01:57:27] OUTGOING: CREDENTIALS: admin:********
+[2025-12-13 01:57:51] INFO: Application started
+[2025-12-13 01:57:51] INFO: Encryption enabled (AES-256)
+[2025-12-13 01:57:51] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:57:51] INFO: Connected successfully
+[2025-12-13 01:57:51] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 01:58:21] ERROR: Authentication timeout: Read timed out
+[2025-12-13 01:58:21] INFO: Disconnected from server
+[2025-12-13 01:58:21] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:58:21] INFO: Connected successfully
+[2025-12-13 01:58:21] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 01:58:51] ERROR: Authentication timeout: Read timed out
+[2025-12-13 01:58:51] INFO: Disconnected from server
+[2025-12-13 01:58:56] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:58:56] INFO: Connected successfully
+[2025-12-13 01:58:56] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 01:59:26] ERROR: Authentication timeout: Read timed out
+[2025-12-13 01:59:26] INFO: Disconnected from server
+[2025-12-13 01:59:36] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 01:59:36] INFO: Connected successfully
+[2025-12-13 01:59:36] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:00:06] ERROR: Authentication timeout: Read timed out
+[2025-12-13 02:00:06] INFO: Disconnected from server
+[2025-12-13 02:00:21] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:00:21] INFO: Connected successfully
+[2025-12-13 02:00:21] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:00:51] ERROR: Authentication timeout: Read timed out
+[2025-12-13 02:00:51] INFO: Disconnected from server
+[2025-12-13 02:01:11] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:01:11] INFO: Connected successfully
+[2025-12-13 02:01:11] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:01:41] ERROR: Authentication timeout: Read timed out
+[2025-12-13 02:01:41] INFO: Disconnected from server
+[2025-12-13 02:02:06] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:02:06] INFO: Connected successfully
+[2025-12-13 02:02:06] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:02:36] ERROR: Authentication timeout: Read timed out
+[2025-12-13 02:02:36] INFO: Disconnected from server
+[2025-12-13 02:03:06] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:03:06] INFO: Connected successfully
+[2025-12-13 02:03:06] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:03:36] ERROR: Authentication timeout: Read timed out
+[2025-12-13 02:03:36] INFO: Disconnected from server
+[2025-12-13 02:04:06] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:04:06] INFO: Connected successfully
+[2025-12-13 02:04:06] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:04:36] ERROR: Authentication timeout: Read timed out
+[2025-12-13 02:04:36] INFO: Disconnected from server
+[2025-12-13 02:05:06] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:05:06] INFO: Connected successfully
+[2025-12-13 02:05:06] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:05:36] ERROR: Authentication timeout: Read timed out
+[2025-12-13 02:05:36] INFO: Disconnected from server
+[2025-12-13 02:06:06] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:06:06] INFO: Connected successfully
+[2025-12-13 02:06:06] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:06:36] ERROR: Authentication timeout: Read timed out
+[2025-12-13 02:06:36] INFO: Disconnected from server
+[2025-12-13 02:07:06] ERROR: Max reconnection attempts reached
+[2025-12-13 02:10:45] INFO: Application started
+[2025-12-13 02:10:45] INFO: Encryption enabled (AES-256)
+[2025-12-13 02:10:45] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:10:45] INFO: Connected successfully
+[2025-12-13 02:10:45] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:10:45] ERROR: Could not decrypt response: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:10:45] INCOMING: AUTH_RESPONSE: 3TkYGs2SHHGRZGapFcClb4eNrLGQyHWvLQUDCcIj3BQoJI39ub5ioGRLj85zOAMxxkuAgde86y9uFGfDwy97hg==
+[2025-12-13 02:10:45] INFO: Disconnected from server
+[2025-12-13 02:10:45] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:10:45] INFO: Connected successfully
+[2025-12-13 02:10:45] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:10:45] ERROR: Could not decrypt response: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:10:45] INCOMING: AUTH_RESPONSE: 3TkYGs2SHHGRZGapFcClb4eNrLGQyHWvLQUDCcIj3BQoJI39ub5ioGRLj85zOAMxxkuAgde86y9uFGfDwy97hg==
+[2025-12-13 02:10:45] INFO: Disconnected from server
+[2025-12-13 02:10:50] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:10:50] INFO: Connected successfully
+[2025-12-13 02:10:50] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:10:50] ERROR: Could not decrypt response: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:10:50] INCOMING: AUTH_RESPONSE: 3TkYGs2SHHGRZGapFcClb4eNrLGQyHWvLQUDCcIj3BQoJI39ub5ioGRLj85zOAMxxkuAgde86y9uFGfDwy97hg==
+[2025-12-13 02:10:50] INFO: Disconnected from server
+[2025-12-13 02:11:00] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:11:00] INFO: Connected successfully
+[2025-12-13 02:11:00] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:11:00] ERROR: Could not decrypt response: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:11:00] INCOMING: AUTH_RESPONSE: 3TkYGs2SHHGRZGapFcClb4eNrLGQyHWvLQUDCcIj3BQoJI39ub5ioGRLj85zOAMxxkuAgde86y9uFGfDwy97hg==
+[2025-12-13 02:11:00] INFO: Disconnected from server
+[2025-12-13 02:11:15] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:11:15] INFO: Connected successfully
+[2025-12-13 02:11:15] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:11:15] ERROR: Could not decrypt response: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:11:15] INCOMING: AUTH_RESPONSE: 3TkYGs2SHHGRZGapFcClb4eNrLGQyHWvLQUDCcIj3BQoJI39ub5ioGRLj85zOAMxxkuAgde86y9uFGfDwy97hg==
+[2025-12-13 02:11:15] INFO: Disconnected from server
+[2025-12-13 02:11:35] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:11:35] INFO: Connected successfully
+[2025-12-13 02:11:35] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:11:35] ERROR: Could not decrypt response: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:11:35] INCOMING: AUTH_RESPONSE: 3TkYGs2SHHGRZGapFcClb4eNrLGQyHWvLQUDCcIj3BQoJI39ub5ioGRLj85zOAMxxkuAgde86y9uFGfDwy97hg==
+[2025-12-13 02:11:35] INFO: Disconnected from server
+[2025-12-13 02:12:00] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:12:00] INFO: Connected successfully
+[2025-12-13 02:12:00] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:12:00] ERROR: Could not decrypt response: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:12:00] INCOMING: AUTH_RESPONSE: 3TkYGs2SHHGRZGapFcClb4eNrLGQyHWvLQUDCcIj3BQoJI39ub5ioGRLj85zOAMxxkuAgde86y9uFGfDwy97hg==
+[2025-12-13 02:12:00] INFO: Disconnected from server
+[2025-12-13 02:12:30] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:12:30] INFO: Connected successfully
+[2025-12-13 02:12:30] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:12:30] ERROR: Could not decrypt response: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:12:30] INCOMING: AUTH_RESPONSE: 3TkYGs2SHHGRZGapFcClb4eNrLGQyHWvLQUDCcIj3BQoJI39ub5ioGRLj85zOAMxxkuAgde86y9uFGfDwy97hg==
+[2025-12-13 02:12:30] INFO: Disconnected from server
+[2025-12-13 02:13:00] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:13:00] INFO: Connected successfully
+[2025-12-13 02:13:00] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:13:00] ERROR: Could not decrypt response: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:13:00] INCOMING: AUTH_RESPONSE: 3TkYGs2SHHGRZGapFcClb4eNrLGQyHWvLQUDCcIj3BQoJI39ub5ioGRLj85zOAMxxkuAgde86y9uFGfDwy97hg==
+[2025-12-13 02:13:00] INFO: Disconnected from server
+[2025-12-13 02:13:30] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:13:30] INFO: Connected successfully
+[2025-12-13 02:13:30] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:13:30] ERROR: Could not decrypt response: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:13:30] INCOMING: AUTH_RESPONSE: 3TkYGs2SHHGRZGapFcClb4eNrLGQyHWvLQUDCcIj3BQoJI39ub5ioGRLj85zOAMxxkuAgde86y9uFGfDwy97hg==
+[2025-12-13 02:13:30] INFO: Disconnected from server
+[2025-12-13 02:14:00] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:14:00] INFO: Connected successfully
+[2025-12-13 02:14:00] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:14:00] ERROR: Could not decrypt response: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:14:00] INCOMING: AUTH_RESPONSE: 3TkYGs2SHHGRZGapFcClb4eNrLGQyHWvLQUDCcIj3BQoJI39ub5ioGRLj85zOAMxxkuAgde86y9uFGfDwy97hg==
+[2025-12-13 02:14:00] INFO: Disconnected from server
+[2025-12-13 02:14:30] ERROR: Max reconnection attempts reached
+[2025-12-13 02:16:36] INFO: Application started
+[2025-12-13 02:16:36] INFO: Encryption enabled (AES-256)
+[2025-12-13 02:16:36] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:16:36] INFO: Connected successfully
+[2025-12-13 02:16:36] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:16:36] ERROR: Decryption failed: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:16:36] INFO: Disconnected from server
+[2025-12-13 02:16:36] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:16:36] INFO: Connected successfully
+[2025-12-13 02:16:36] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:16:36] ERROR: Decryption failed: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:16:36] INFO: Disconnected from server
+[2025-12-13 02:16:41] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:16:41] INFO: Connected successfully
+[2025-12-13 02:16:41] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:16:41] ERROR: Decryption failed: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:16:41] INFO: Disconnected from server
+[2025-12-13 02:16:51] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:16:51] INFO: Connected successfully
+[2025-12-13 02:16:51] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:16:51] ERROR: Decryption failed: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:16:51] INFO: Disconnected from server
+[2025-12-13 02:17:06] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:17:06] INFO: Connected successfully
+[2025-12-13 02:17:06] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:17:06] ERROR: Decryption failed: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:17:06] INFO: Disconnected from server
+[2025-12-13 02:17:26] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:17:26] INFO: Connected successfully
+[2025-12-13 02:17:26] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:17:26] ERROR: Decryption failed: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:17:26] INFO: Disconnected from server
+[2025-12-13 02:17:45] INFO: Application started
+[2025-12-13 02:17:45] INFO: Encryption enabled (AES-256)
+[2025-12-13 02:17:45] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:17:45] INFO: Connected successfully
+[2025-12-13 02:17:45] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:17:45] ERROR: Decryption failed: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:17:45] INFO: Disconnected from server
+[2025-12-13 02:17:45] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:17:45] INFO: Connected successfully
+[2025-12-13 02:17:45] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:17:46] ERROR: Decryption failed: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:17:46] INFO: Disconnected from server
+[2025-12-13 02:17:51] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:17:51] INFO: Connected successfully
+[2025-12-13 02:17:51] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:17:51] ERROR: Decryption failed: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:17:51] INFO: Disconnected from server
+[2025-12-13 02:18:01] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:18:01] INFO: Connected successfully
+[2025-12-13 02:18:01] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:18:01] ERROR: Decryption failed: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:18:01] INFO: Disconnected from server
+[2025-12-13 02:18:16] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:18:16] INFO: Connected successfully
+[2025-12-13 02:18:16] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:18:16] ERROR: Decryption failed: Given final block not properly padded. Such issues can arise if a bad key is used during decryption.
+[2025-12-13 02:18:16] INFO: Disconnected from server
+[2025-12-13 02:18:36] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:18:36] INFO: Connected successfully
+[2025-12-13 02:18:36] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:18:36] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:18:36] INFO: Disconnected from server
+[2025-12-13 02:19:01] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:19:01] INFO: Connected successfully
+[2025-12-13 02:19:01] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:19:01] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:19:01] INFO: Disconnected from server
+[2025-12-13 02:19:31] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:19:31] INFO: Connected successfully
+[2025-12-13 02:19:31] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:19:31] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:19:31] INFO: Disconnected from server
+[2025-12-13 02:20:01] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:20:01] INFO: Connected successfully
+[2025-12-13 02:20:01] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:20:01] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:20:01] INFO: Disconnected from server
+[2025-12-13 02:20:31] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:20:31] INFO: Connected successfully
+[2025-12-13 02:20:31] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:20:31] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:20:31] INFO: Disconnected from server
+[2025-12-13 02:20:58] INFO: Application started
+[2025-12-13 02:20:58] INFO: Encryption enabled (AES-256)
+[2025-12-13 02:20:58] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:20:58] INFO: Connected successfully
+[2025-12-13 02:20:58] ERROR: Encryption failed, sending plain text: Invalid AES key length: 17 bytes
+[2025-12-13 02:20:58] ERROR: Decryption failed: Invalid AES key length: 17 bytes
+[2025-12-13 02:20:58] ERROR: Failed to receive data file: null
+[2025-12-13 02:21:14] ERROR: Encryption failed for ticker: Invalid AES key length: 17 bytes
+[2025-12-13 02:21:14] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 02:21:14] ERROR: Ticker search failed: null
+[2025-12-13 02:21:14] ERROR: Connection lost
+[2025-12-13 02:21:14] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 02:21:18] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:21:18] INFO: Connected successfully
+[2025-12-13 02:21:18] ERROR: Encryption failed, sending plain text: Invalid AES key length: 17 bytes
+[2025-12-13 02:21:18] ERROR: Decryption failed: Invalid AES key length: 17 bytes
+[2025-12-13 02:21:18] ERROR: Failed to receive data file: null
+[2025-12-13 02:21:26] ERROR: Encryption failed for ticker: Invalid AES key length: 17 bytes
+[2025-12-13 02:21:26] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 02:21:26] ERROR: Ticker search failed: null
+[2025-12-13 02:21:26] ERROR: Connection lost
+[2025-12-13 02:21:26] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 02:21:28] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:21:28] INFO: Connected successfully
+[2025-12-13 02:21:28] ERROR: Encryption failed, sending plain text: Invalid AES key length: 17 bytes
+[2025-12-13 02:21:28] ERROR: Decryption failed: Invalid AES key length: 17 bytes
+[2025-12-13 02:21:28] ERROR: Failed to receive data file: null
+[2025-12-13 02:23:07] INFO: Application started
+[2025-12-13 02:23:07] INFO: Encryption enabled (AES-256)
+[2025-12-13 02:23:07] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:23:07] INFO: Connected successfully
+[2025-12-13 02:23:07] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:23:07] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:23:07] INFO: Disconnected from server
+[2025-12-13 02:23:07] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:23:07] INFO: Connected successfully
+[2025-12-13 02:23:07] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:23:07] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:23:07] INFO: Disconnected from server
+[2025-12-13 02:23:12] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:23:12] INFO: Connected successfully
+[2025-12-13 02:23:12] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:23:12] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:23:12] INFO: Disconnected from server
+[2025-12-13 02:23:22] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:23:22] INFO: Connected successfully
+[2025-12-13 02:23:22] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:23:22] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:23:22] INFO: Disconnected from server
+[2025-12-13 02:23:37] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:23:37] INFO: Connected successfully
+[2025-12-13 02:23:37] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:23:37] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:23:37] INFO: Disconnected from server
+[2025-12-13 02:23:57] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:23:57] INFO: Connected successfully
+[2025-12-13 02:23:57] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:23:57] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:23:57] INFO: Disconnected from server
+[2025-12-13 02:24:22] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:24:22] INFO: Connected successfully
+[2025-12-13 02:24:22] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:24:22] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:24:22] INFO: Disconnected from server
+[2025-12-13 02:24:52] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:24:52] INFO: Connected successfully
+[2025-12-13 02:24:52] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:24:52] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:24:52] INFO: Disconnected from server
+[2025-12-13 02:25:22] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:25:22] INFO: Connected successfully
+[2025-12-13 02:25:22] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:25:22] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:25:22] INFO: Disconnected from server
+[2025-12-13 02:25:33] INFO: Application started
+[2025-12-13 02:25:33] INFO: Encryption enabled (AES-256)
+[2025-12-13 02:25:33] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:25:33] INFO: Connected successfully
+[2025-12-13 02:25:33] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:25:33] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:25:33] INFO: Disconnected from server
+[2025-12-13 02:25:33] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:25:33] INFO: Connected successfully
+[2025-12-13 02:25:33] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:25:33] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:25:33] INFO: Disconnected from server
+[2025-12-13 02:25:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:25:38] INFO: Connected successfully
+[2025-12-13 02:25:38] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:25:38] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:25:38] INFO: Disconnected from server
+[2025-12-13 02:25:48] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:25:48] INFO: Connected successfully
+[2025-12-13 02:25:48] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:25:48] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:25:48] INFO: Disconnected from server
+[2025-12-13 02:26:03] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:26:03] INFO: Connected successfully
+[2025-12-13 02:26:03] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:26:03] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:26:03] INFO: Disconnected from server
+[2025-12-13 02:26:23] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:26:23] INFO: Connected successfully
+[2025-12-13 02:26:23] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:26:23] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:26:23] INFO: Disconnected from server
+[2025-12-13 02:26:48] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:26:48] INFO: Connected successfully
+[2025-12-13 02:26:48] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:26:48] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:26:48] INFO: Disconnected from server
+[2025-12-13 02:27:18] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:27:18] INFO: Connected successfully
+[2025-12-13 02:27:18] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:27:18] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:27:18] INFO: Disconnected from server
+[2025-12-13 02:27:35] INFO: Application started
+[2025-12-13 02:27:35] INFO: Encryption enabled (AES-256)
+[2025-12-13 02:27:35] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:27:35] INFO: Connected successfully
+[2025-12-13 02:27:35] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:27:35] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:27:35] INFO: Disconnected from server
+[2025-12-13 02:27:35] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:27:35] INFO: Connected successfully
+[2025-12-13 02:27:35] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:27:35] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:27:35] INFO: Disconnected from server
+[2025-12-13 02:27:40] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:27:40] INFO: Connected successfully
+[2025-12-13 02:27:40] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:27:40] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:27:40] INFO: Disconnected from server
+[2025-12-13 02:27:50] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:27:50] INFO: Connected successfully
+[2025-12-13 02:27:50] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:27:50] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:27:50] INFO: Disconnected from server
+[2025-12-13 02:28:05] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:28:05] INFO: Connected successfully
+[2025-12-13 02:28:05] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:28:05] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:28:05] INFO: Disconnected from server
+[2025-12-13 02:28:25] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:28:25] INFO: Connected successfully
+[2025-12-13 02:28:25] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:28:25] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:28:25] INFO: Disconnected from server
+[2025-12-13 02:28:50] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:28:50] INFO: Connected successfully
+[2025-12-13 02:28:50] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:28:50] ERROR: Decryption failed: Illegal base64 character 20
+[2025-12-13 02:28:50] INFO: Disconnected from server
+[2025-12-13 02:29:20] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:29:20] INFO: Connected successfully
+[2025-12-13 02:29:20] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:29:21] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 02:29:21] INCOMING: File size: 7952 bytes
+[2025-12-13 02:29:21] INFO: Data decrypted successfully
+[2025-12-13 02:29:21] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 02:29:21] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 02:29:21] INCOMING: SERVER: READY
+[2025-12-13 02:31:08] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 02:31:08] ERROR: Ticker search failed: An established connection was aborted by the software in your host machine
+[2025-12-13 02:31:08] ERROR: Connection lost
+[2025-12-13 02:31:08] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 02:31:11] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:31:11] INFO: Connected successfully
+[2025-12-13 02:31:11] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:31:11] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 02:31:11] INCOMING: File size: 7952 bytes
+[2025-12-13 02:31:11] INFO: Data decrypted successfully
+[2025-12-13 02:31:11] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 02:31:11] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 02:31:11] INCOMING: SERVER: READY
+[2025-12-13 02:31:37] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 02:31:37] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: "1
+[2025-12-13 02:31:46] OUTGOING: ISO8583 command sent
+[2025-12-13 02:31:46] INCOMING: ISO_READY response: ISO_READY
+[2025-12-13 02:31:46] OUTGOING: ISO8583 Header sent: 08 00
+[2025-12-13 02:31:46] INCOMING: ISO8583 Response Header: 08 10
+[2025-12-13 02:31:46] INCOMING: ISO8583 Response Message: Balance: $10,000.00
+[2025-12-13 02:31:46] INCOMING: ISO8583_STATUS: SUCCESS
+[2025-12-13 02:31:55] INFO: Application started
+[2025-12-13 02:31:55] INFO: Encryption enabled (AES-256)
+[2025-12-13 02:31:55] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:31:55] INFO: Connected successfully
+[2025-12-13 02:31:55] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:31:55] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 02:31:55] INCOMING: File size: 7952 bytes
+[2025-12-13 02:31:55] INFO: Data decrypted successfully
+[2025-12-13 02:31:55] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 02:31:55] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 02:31:55] INCOMING: SERVER: READY
+[2025-12-13 02:32:52] ERROR: Ticker search failed: Connection reset by peer
+[2025-12-13 02:32:52] ERROR: Connection lost
+[2025-12-13 02:32:52] ERROR: Error during disconnect: Connection reset by peer
+[2025-12-13 02:32:55] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:32:55] INFO: Connected successfully
+[2025-12-13 02:32:55] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:32:56] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 02:32:56] INCOMING: File size: 7952 bytes
+[2025-12-13 02:32:56] INFO: Data decrypted successfully
+[2025-12-13 02:32:56] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 02:32:56] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 02:32:56] INCOMING: SERVER: READY
+[2025-12-13 02:32:59] OUTGOING: TICKER_SEARCH: NNBK
+[2025-12-13 02:32:59] INCOMING: TICKER_RESULT: NOT_FOUND: Ticker not found: NNBK
+[2025-12-13 02:33:04] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 02:33:04] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: "1
+[2025-12-13 02:33:07] OUTGOING: ISO8583 command sent
+[2025-12-13 02:33:07] INCOMING: ISO_READY response: ISO_READY
+[2025-12-13 02:33:07] OUTGOING: ISO8583 Header sent: 08 00
+[2025-12-13 02:33:07] INCOMING: ISO8583 Response Header: 08 10
+[2025-12-13 02:33:07] INCOMING: ISO8583 Response Message: Balance: $10,000.00
+[2025-12-13 02:33:07] INCOMING: ISO8583_STATUS: SUCCESS
+[2025-12-13 02:35:46] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 02:35:46] ERROR: Ticker search failed: An established connection was aborted by the software in your host machine
+[2025-12-13 02:35:46] ERROR: Connection lost
+[2025-12-13 02:35:46] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 02:35:51] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 02:35:51] INFO: Connected successfully
+[2025-12-13 02:35:51] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 02:35:51] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 02:35:51] INCOMING: File size: 7952 bytes
+[2025-12-13 02:35:51] INFO: Data decrypted successfully
+[2025-12-13 02:35:51] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 02:35:51] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 02:35:51] INCOMING: SERVER: READY
+[2025-12-13 02:35:57] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 02:35:57] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: "1
+[2025-12-13 11:21:26] INFO: Application started
+[2025-12-13 11:21:26] INFO: Encryption enabled (AES-256)
+[2025-12-13 11:21:26] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 11:21:26] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 11:21:26] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 11:21:26] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 11:21:31] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 11:21:31] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 11:21:41] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 11:21:41] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 16:06:28] INFO: Application started
+[2025-12-13 16:06:28] INFO: Encryption enabled (AES-256)
+[2025-12-13 16:06:28] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 16:06:28] INFO: Connected successfully
+[2025-12-13 16:06:28] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 16:06:29] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 16:06:29] INCOMING: File size: 7952 bytes
+[2025-12-13 16:06:29] INFO: Data decrypted successfully
+[2025-12-13 16:06:29] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 16:06:29] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 16:06:29] INCOMING: SERVER: READY
+[2025-12-13 16:07:51] INFO: Disconnected from server
+[2025-12-13 16:07:51] INFO: Application terminated
+[2025-12-13 16:07:56] INFO: Application started
+[2025-12-13 16:07:56] INFO: Encryption enabled (AES-256)
+[2025-12-13 16:07:56] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 16:07:56] INFO: Connected successfully
+[2025-12-13 16:07:56] OUTGOING: ENCRYPTED_CREDENTIALS: null:********
+[2025-12-13 16:07:56] INCOMING: DECRYPTED_AUTH_RESPONSE: 401 Auth Failed - Invalid credentials
+[2025-12-13 16:07:56] INFO: Disconnected from server
+[2025-12-13 16:07:56] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 16:07:56] INFO: Connected successfully
+[2025-12-13 16:07:56] OUTGOING: ENCRYPTED_CREDENTIALS: null:********
+[2025-12-13 16:07:56] INCOMING: DECRYPTED_AUTH_RESPONSE: 401 Auth Failed - Invalid credentials
+[2025-12-13 16:07:56] INFO: Disconnected from server
+[2025-12-13 16:08:01] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 16:08:01] INFO: Connected successfully
+[2025-12-13 16:08:01] OUTGOING: ENCRYPTED_CREDENTIALS: null:********
+[2025-12-13 16:08:01] INCOMING: DECRYPTED_AUTH_RESPONSE: 401 Auth Failed - Invalid credentials
+[2025-12-13 16:08:01] INFO: Disconnected from server
+[2025-12-13 16:08:11] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 16:08:11] INFO: Connected successfully
+[2025-12-13 16:08:11] OUTGOING: ENCRYPTED_CREDENTIALS: null:********
+[2025-12-13 16:08:11] INCOMING: DECRYPTED_AUTH_RESPONSE: 401 Auth Failed - Invalid credentials
+[2025-12-13 16:08:11] INFO: Disconnected from server
+[2025-12-13 16:08:26] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 16:08:26] INFO: Connected successfully
+[2025-12-13 16:08:26] OUTGOING: ENCRYPTED_CREDENTIALS: null:********
+[2025-12-13 16:08:26] INCOMING: DECRYPTED_AUTH_RESPONSE: 401 Auth Failed - Invalid credentials
+[2025-12-13 16:08:26] INFO: Disconnected from server
+[2025-12-13 16:08:46] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 16:08:46] INFO: Connected successfully
+[2025-12-13 16:08:46] OUTGOING: ENCRYPTED_CREDENTIALS: null:********
+[2025-12-13 16:08:46] INCOMING: DECRYPTED_AUTH_RESPONSE: 401 Auth Failed - Invalid credentials
+[2025-12-13 16:08:46] INFO: Disconnected from server
+[2025-12-13 16:09:02] ERROR: Error during disconnect: Socket closed
+[2025-12-13 16:09:02] INFO: Application terminated
+[2025-12-13 16:21:16] INFO: Application started
+[2025-12-13 16:21:17] INFO: Encryption enabled (AES-256)
+[2025-12-13 16:21:17] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 16:21:17] INFO: Connected successfully
+[2025-12-13 16:21:17] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 16:21:17] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 16:21:17] INCOMING: File size: 7952 bytes
+[2025-12-13 16:21:17] INFO: Data decrypted successfully
+[2025-12-13 16:21:17] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 16:21:17] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 16:21:17] INCOMING: SERVER: READY
+[2025-12-13 16:21:37] OUTGOING: ISO8583 command sent
+[2025-12-13 16:21:37] INCOMING: ISO_READY response: ISO_READY
+[2025-12-13 16:21:37] OUTGOING: ISO8583 Header sent: 08 00
+[2025-12-13 16:21:37] INCOMING: ISO8583 Response Header: 08 10
+[2025-12-13 16:21:37] INCOMING: ISO8583 Response Message: Balance: $10,000.00
+[2025-12-13 16:21:37] INCOMING: ISO8583_STATUS: SUCCESS
+[2025-12-13 16:22:04] OUTGOING: TICKER_SEARCH: ISO 8583
+[2025-12-13 16:22:04] INCOMING: TICKER_RESULT: NOT_FOUND: Ticker not found: ISO 8583
+[2025-12-13 17:08:15] INFO: Application started
+[2025-12-13 17:08:15] INFO: Encryption enabled (AES-256)
+[2025-12-13 17:08:15] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:08:15] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 17:08:15] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:08:15] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 17:08:20] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:08:20] ERROR: Connection failed: Connection refused: connect
+[2025-12-13 17:08:30] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:08:30] INFO: Connected successfully
+[2025-12-13 17:08:30] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 17:08:30] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 17:08:30] INCOMING: File size: 7952 bytes
+[2025-12-13 17:08:30] INFO: Data decrypted successfully
+[2025-12-13 17:08:30] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 17:08:30] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 17:08:30] INCOMING: SERVER: READY
+[2025-12-13 17:08:49] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 17:08:49] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: "1
+[2025-12-13 17:09:07] OUTGOING: TICKER_SEARCH: AMAR
+[2025-12-13 17:09:07] INCOMING: TICKER_RESULT: FOUND: AMAR | AMAR FOR FINANCE AND LEASING CO. | Sector: FINANCIAL SERVICES | Price: 103
+[2025-12-13 17:10:37] OUTGOING: ISO8583 command sent
+[2025-12-13 17:10:37] ERROR: Balance check failed: An established connection was aborted by the software in your host machine
+[2025-12-13 17:10:37] ERROR: Connection lost
+[2025-12-13 17:10:37] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 17:10:41] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:10:41] INFO: Connected successfully
+[2025-12-13 17:10:41] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 17:10:41] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 17:10:41] INCOMING: File size: 7952 bytes
+[2025-12-13 17:10:41] INFO: Data decrypted successfully
+[2025-12-13 17:10:41] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 17:10:41] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 17:10:41] INCOMING: SERVER: READY
+[2025-12-13 17:10:48] OUTGOING: ISO8583 command sent
+[2025-12-13 17:10:48] INCOMING: ISO_READY response: ISO_READY
+[2025-12-13 17:10:48] OUTGOING: ISO8583 Header sent: 08 00
+[2025-12-13 17:10:48] INCOMING: ISO8583 Response Header: 08 10
+[2025-12-13 17:10:48] INCOMING: ISO8583 Response Message: Balance: $10,000.00
+[2025-12-13 17:10:48] INCOMING: ISO8583_STATUS: SUCCESS
+[2025-12-13 17:13:06] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 17:13:06] ERROR: Ticker search failed: An established connection was aborted by the software in your host machine
+[2025-12-13 17:13:06] ERROR: Connection lost
+[2025-12-13 17:13:06] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 17:13:06] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:13:06] INFO: Connected successfully
+[2025-12-13 17:13:06] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 17:13:06] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 17:13:06] INCOMING: File size: 7952 bytes
+[2025-12-13 17:13:06] INFO: Data decrypted successfully
+[2025-12-13 17:13:06] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 17:13:06] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 17:13:06] INCOMING: SERVER: READY
+[2025-12-13 17:13:09] OUTGOING: ISO8583 command sent
+[2025-12-13 17:13:09] INCOMING: ISO_READY response: ISO_READY
+[2025-12-13 17:13:09] OUTGOING: ISO8583 Header sent: 08 00
+[2025-12-13 17:13:09] INCOMING: ISO8583 Response Header: 08 10
+[2025-12-13 17:13:09] INCOMING: ISO8583 Response Message: Balance: $10,000.00
+[2025-12-13 17:13:09] INCOMING: ISO8583_STATUS: SUCCESS
+[2025-12-13 17:17:49] ERROR: Balance check failed: An established connection was aborted by the software in your host machine
+[2025-12-13 17:17:49] ERROR: Connection lost
+[2025-12-13 17:17:49] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 17:17:52] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:17:52] INFO: Connected successfully
+[2025-12-13 17:17:52] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 17:17:52] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 17:17:52] INCOMING: File size: 7952 bytes
+[2025-12-13 17:17:52] INFO: Data decrypted successfully
+[2025-12-13 17:17:52] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 17:17:52] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 17:17:52] INCOMING: SERVER: READY
+[2025-12-13 17:17:55] OUTGOING: ISO8583 command sent
+[2025-12-13 17:17:55] INCOMING: ISO_READY response: ISO_READY
+[2025-12-13 17:17:55] OUTGOING: ISO8583 Header sent: 08 00
+[2025-12-13 17:18:25] ERROR: ISO operation timeout: Read timed out
+[2025-12-13 17:19:40] ERROR: Balance check failed: Connection reset by peer
+[2025-12-13 17:19:40] ERROR: Connection lost
+[2025-12-13 17:19:40] ERROR: Error during disconnect: Connection reset by peer
+[2025-12-13 17:19:42] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:19:42] INFO: Connected successfully
+[2025-12-13 17:19:42] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 17:19:43] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 17:19:43] INCOMING: File size: 7952 bytes
+[2025-12-13 17:19:43] INFO: Data decrypted successfully
+[2025-12-13 17:19:43] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 17:19:43] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 17:19:43] INCOMING: SERVER: READY
+[2025-12-13 17:19:57] OUTGOING: ISO8583 command sent
+[2025-12-13 17:19:57] INCOMING: ISO_READY response: ISO_READY
+[2025-12-13 17:19:57] OUTGOING: ISO8583 Header sent: 08 00
+[2025-12-13 17:19:57] INCOMING: ISO8583 Response Header: 08 10
+[2025-12-13 17:19:57] INCOMING: ISO8583 Response Message: Balance: $10,000.00
+[2025-12-13 17:19:57] INCOMING: ISO8583_STATUS: SUCCESS
+[2025-12-13 17:24:00] ERROR: Balance check failed: An established connection was aborted by the software in your host machine
+[2025-12-13 17:24:00] ERROR: Connection lost
+[2025-12-13 17:24:00] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 17:24:03] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:24:03] INFO: Connected successfully
+[2025-12-13 17:24:03] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 17:24:03] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 17:24:03] INCOMING: File size: 7952 bytes
+[2025-12-13 17:24:03] INFO: Data decrypted successfully
+[2025-12-13 17:24:03] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 17:24:03] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 17:24:03] INCOMING: SERVER: READY
+[2025-12-13 17:32:38] ERROR: Ticker search failed: An established connection was aborted by the software in your host machine
+[2025-12-13 17:32:38] ERROR: Connection lost
+[2025-12-13 17:32:38] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 17:32:40] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:32:40] INFO: Connected successfully
+[2025-12-13 17:32:40] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 17:32:40] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 17:32:40] INCOMING: File size: 7952 bytes
+[2025-12-13 17:32:40] INFO: Data decrypted successfully
+[2025-12-13 17:32:40] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 17:32:40] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 17:32:40] INCOMING: SERVER: READY
+[2025-12-13 17:32:43] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 17:32:43] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: "1
+[2025-12-13 17:35:29] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 17:35:29] ERROR: Ticker search failed: An established connection was aborted by the software in your host machine
+[2025-12-13 17:35:29] ERROR: Connection lost
+[2025-12-13 17:35:29] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 17:35:30] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:35:30] INFO: Connected successfully
+[2025-12-13 17:35:30] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 17:35:31] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 17:35:31] INCOMING: File size: 7952 bytes
+[2025-12-13 17:35:31] INFO: Data decrypted successfully
+[2025-12-13 17:35:31] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 17:35:31] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 17:35:31] INCOMING: SERVER: READY
+[2025-12-13 17:35:33] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 17:35:33] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: "1 | Market Cap: 040.00"
+[2025-12-13 17:36:41] OUTGOING: TICKER_SEARCH: NBk
+[2025-12-13 17:36:41] ERROR: Ticker search failed: An established connection was aborted by the software in your host machine
+[2025-12-13 17:36:41] ERROR: Connection lost
+[2025-12-13 17:36:41] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 17:36:46] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:36:46] INFO: Connected successfully
+[2025-12-13 17:36:46] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 17:36:46] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 17:36:46] INCOMING: File size: 7952 bytes
+[2025-12-13 17:36:46] INFO: Data decrypted successfully
+[2025-12-13 17:36:46] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 17:36:46] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 17:36:46] INCOMING: SERVER: READY
+[2025-12-13 17:36:49] OUTGOING: TICKER_SEARCH: NBk
+[2025-12-13 17:36:49] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: "1
+[2025-12-13 17:39:09] OUTGOING: TICKER_SEARCH: KINV
+[2025-12-13 17:39:09] ERROR: Ticker search failed: An established connection was aborted by the software in your host machine
+[2025-12-13 17:39:09] ERROR: Connection lost
+[2025-12-13 17:39:09] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 17:39:11] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:39:11] INFO: Connected successfully
+[2025-12-13 17:39:11] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 17:39:12] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 17:39:12] INCOMING: File size: 7952 bytes
+[2025-12-13 17:39:12] INFO: Data decrypted successfully
+[2025-12-13 17:39:12] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 17:39:12] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 17:39:12] INCOMING: SERVER: READY
+[2025-12-13 17:39:14] OUTGOING: TICKER_SEARCH: KINV
+[2025-12-13 17:39:14] INCOMING: TICKER_RESULT: FOUND: KINV | KUWAIT INVESTMENT COMPANY | Sector: FINANCIAL SERVICES | Price: 244
+[2025-12-13 17:39:25] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 17:39:25] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: "1
+[2025-12-13 17:39:58] ERROR: Ticker search failed: Connection reset by peer
+[2025-12-13 17:39:58] ERROR: Connection lost
+[2025-12-13 17:39:58] ERROR: Error during disconnect: Connection reset by peer
+[2025-12-13 17:40:02] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:40:02] INFO: Connected successfully
+[2025-12-13 17:40:02] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 17:40:02] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 17:40:02] INCOMING: File size: 7952 bytes
+[2025-12-13 17:40:02] INFO: Data decrypted successfully
+[2025-12-13 17:40:02] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 17:40:02] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 17:40:02] INCOMING: SERVER: READY
+[2025-12-13 17:40:05] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 17:40:05] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: "1
+[2025-12-13 17:43:58] ERROR: Ticker search failed: An established connection was aborted by the software in your host machine
+[2025-12-13 17:43:58] ERROR: Connection lost
+[2025-12-13 17:43:58] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 17:44:03] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:44:03] INFO: Connected successfully
+[2025-12-13 17:44:03] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 17:44:03] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 17:44:03] INCOMING: File size: 7952 bytes
+[2025-12-13 17:44:03] INFO: Data decrypted successfully
+[2025-12-13 17:44:03] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 17:44:03] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 17:44:03] INCOMING: SERVER: READY
+[2025-12-13 17:44:05] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 17:44:05] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: 1039.00
+[2025-12-13 17:48:17] ERROR: Ticker search failed: An established connection was aborted by the software in your host machine
+[2025-12-13 17:48:17] ERROR: Connection lost
+[2025-12-13 17:48:17] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 17:48:18] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 17:48:18] INFO: Connected successfully
+[2025-12-13 17:48:18] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 17:48:18] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 17:48:18] INCOMING: File size: 7952 bytes
+[2025-12-13 17:48:18] INFO: Data decrypted successfully
+[2025-12-13 17:48:18] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 17:48:18] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 17:48:18] INCOMING: SERVER: READY
+[2025-12-13 17:48:21] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 17:48:21] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: 1039.00  | Market Cap: 8,742,765,046
+[2025-12-13 17:49:06] OUTGOING: TICKER_SEARCH: UNICAP
+[2025-12-13 17:49:06] INCOMING: TICKER_RESULT: FOUND: UNICAP | UNICAP INVESTMENT AND FINANCE | Sector: FINANCIAL SERVICES | Price: 316  | Market Cap: 239,596,843
+[2025-12-13 17:49:39] OUTGOING: TICKER_SEARCH: CGC
+[2025-12-13 17:49:39] INCOMING: TICKER_RESULT: FOUND: CGC | COMBINED GROUP CONTRACTING CO. | Sector: INDUSTRIALS | Price: 1133.00  | Market Cap: 171,054,893
+[2025-12-13 17:49:46] OUTGOING: ISO8583 command sent
+[2025-12-13 17:49:46] INCOMING: ISO_READY response: ISO_READY
+[2025-12-13 17:49:46] OUTGOING: ISO8583 Header sent: 08 00
+[2025-12-13 17:49:46] INCOMING: ISO8583 Response Header: 08 10
+[2025-12-13 17:49:46] INCOMING: ISO8583 Response Message: Balance: $10,000.00
+[2025-12-13 17:49:46] INCOMING: ISO8583_STATUS: SUCCESS
+[2025-12-13 17:49:50] OUTGOING: TICKER_SEARCH: VIP
+[2025-12-13 17:49:50] INCOMING: TICKER_RESULT: NOT_FOUND: Ticker not found: VIP
+[2025-12-13 21:26:19] INFO: Application started
+[2025-12-13 21:26:19] INFO: Encryption enabled (AES-256)
+[2025-12-13 21:26:19] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 21:26:19] INFO: Connected successfully
+[2025-12-13 21:26:19] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 21:26:19] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 21:26:19] INCOMING: File size: 7952 bytes
+[2025-12-13 21:26:19] INFO: Data decrypted successfully
+[2025-12-13 21:26:19] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 21:26:19] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 21:26:19] INCOMING: SERVER: READY
+[2025-12-13 21:29:02] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 21:29:02] ERROR: Ticker search failed: An established connection was aborted by the software in your host machine
+[2025-12-13 21:29:02] ERROR: Connection lost
+[2025-12-13 21:29:02] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 21:29:05] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 21:29:05] INFO: Connected successfully
+[2025-12-13 21:29:05] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 21:29:05] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 21:29:05] INCOMING: File size: 7952 bytes
+[2025-12-13 21:29:05] INFO: Data decrypted successfully
+[2025-12-13 21:29:05] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 21:29:05] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 21:29:05] INCOMING: SERVER: READY
+[2025-12-13 21:29:08] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 21:29:08] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: 1039.00  | Market Cap: 8,742,765,046
+[2025-12-13 21:29:31] OUTGOING: ISO8583 command sent
+[2025-12-13 21:29:31] INCOMING: ISO_READY response: ISO_READY
+[2025-12-13 21:29:31] OUTGOING: ISO8583 Header sent: 08 00
+[2025-12-13 21:29:31] INCOMING: ISO8583 Response Header: 08 10
+[2025-12-13 21:29:31] INCOMING: ISO8583 Response Message: Balance: $10,000.00
+[2025-12-13 21:29:31] INCOMING: ISO8583_STATUS: SUCCESS
+[2025-12-13 21:31:38] INFO: Application started
+[2025-12-13 21:31:38] INFO: Encryption enabled (AES-256)
+[2025-12-13 21:31:38] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 21:31:38] INFO: Connected successfully
+[2025-12-13 21:31:38] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 21:31:38] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 21:31:38] INCOMING: File size: 7952 bytes
+[2025-12-13 21:31:38] INFO: Data decrypted successfully
+[2025-12-13 21:31:38] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 21:31:38] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 21:31:38] INCOMING: SERVER: READY
+[2025-12-13 21:32:13] INFO: Application started
+[2025-12-13 21:32:13] INFO: Encryption enabled (AES-256)
+[2025-12-13 21:32:13] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 21:32:13] INFO: Connected successfully
+[2025-12-13 21:32:14] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 21:32:14] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 21:32:14] INCOMING: File size: 7952 bytes
+[2025-12-13 21:32:14] INFO: Data decrypted successfully
+[2025-12-13 21:32:14] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 21:32:14] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 21:32:14] INCOMING: SERVER: READY
+[2025-12-13 21:32:43] INFO: Application started
+[2025-12-13 21:32:43] INFO: Encryption enabled (AES-256)
+[2025-12-13 21:32:43] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 21:32:43] INFO: Connected successfully
+[2025-12-13 21:32:44] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 21:32:44] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 21:32:44] INCOMING: File size: 7952 bytes
+[2025-12-13 21:32:44] INFO: Data decrypted successfully
+[2025-12-13 21:32:44] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 21:32:44] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 21:32:44] INCOMING: SERVER: READY
+[2025-12-13 21:40:59] ERROR: Ticker search failed: An established connection was aborted by the software in your host machine
+[2025-12-13 21:40:59] ERROR: Connection lost
+[2025-12-13 21:40:59] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 21:40:59] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 21:40:59] INFO: Connected successfully
+[2025-12-13 21:40:59] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 21:41:00] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 21:41:00] INCOMING: File size: 7952 bytes
+[2025-12-13 21:41:00] INFO: Data decrypted successfully
+[2025-12-13 21:41:00] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 21:41:00] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 21:41:00] INCOMING: SERVER: READY
+[2025-12-13 21:41:02] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 21:41:02] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: 1039.00  | Market Cap: 8,742,765,046
+[2025-12-13 21:55:46] ERROR: Ticker search failed: An established connection was aborted by the software in your host machine
+[2025-12-13 21:55:46] ERROR: Connection lost
+[2025-12-13 21:55:46] ERROR: Error during disconnect: An established connection was aborted by the software in your host machine
+[2025-12-13 21:55:51] INFO: Attempting to connect to 127.0.0.1:8080
+[2025-12-13 21:55:51] INFO: Connected successfully
+[2025-12-13 21:55:51] OUTGOING: ENCRYPTED_CREDENTIALS: admin:********
+[2025-12-13 21:55:51] INCOMING: DECRYPTED_AUTH_RESPONSE: 200 OK
+[2025-12-13 21:55:51] INCOMING: File size: 7952 bytes
+[2025-12-13 21:55:51] INFO: Data decrypted successfully
+[2025-12-13 21:55:51] INFO: Data file saved: downloaded_data.csv (7952 bytes)
+[2025-12-13 21:55:51] INCOMING: SERVER: CSV_DUMP_COMPLETE
+[2025-12-13 21:55:51] INCOMING: SERVER: READY
+[2025-12-13 21:55:54] OUTGOING: TICKER_SEARCH: NBK
+[2025-12-13 21:55:54] INCOMING: TICKER_RESULT: FOUND: NBK | NATIONAL BANK OF KUWAIT | Sector: BANKS | Price: 1039.00  | Market Cap: 8,742,765,046
+[2025-12-13 21:55:56] OUTGOING: ISO8583 command sent
+[2025-12-13 21:55:56] INCOMING: ISO_READY response: ISO_READY
+[2025-12-13 21:55:56] OUTGOING: ISO8583 Header sent: 08 00
+[2025-12-13 21:55:56] INCOMING: ISO8583 Response Header: 08 10
+[2025-12-13 21:55:56] INCOMING: ISO8583 Response Message: Balance: $10,000.00
+[2025-12-13 21:55:56] INCOMING: ISO8583_STATUS: SUCCESS
